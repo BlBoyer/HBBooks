@@ -1,0 +1,33 @@
+body
+{
+    font-family: sans-serif;
+}
+footer
+{
+    box-shadow:0px -4px 5px -2px var(--bs-gray-200);
+}
+.main .heading
+{
+    font-family: 'Questrial';
+    font-size: 1.7em;
+    color: var(--bs-gray-700);
+}
+.main .nav-link
+{
+    font-family: 'Questrial';
+    font-size: 1.1em;
+    color: var(--bs-gray-500);
+} 
+.main .nav-link:hover
+{
+    background-color: var(--bs-gray-100);
+}
+.disabled
+{
+    background-color: var(--bs-gray-100);
+}
+.main .subheading
+{
+    font-family: 'Raleway';
+    font-size: 1.3em;
+}

@@ -1,25 +1,13 @@
-import logo from './logo.svg';
-import './App.css';
-
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+import {React, useState} from 'react';
+import Layout from './pages/Layout.js';
+export default function App(){
+    //state variables
+    const [currPage, setPage] = useState("Welcome");
+    //route names
+    const routes = ["About", "Books", "Welcome"];
+    //global variables object
+    const capsule = new Object({title: "HattyBartyBooks", page: currPage, setPage: setPage, routes: routes});
+    return (
+        <Layout capsule={capsule} />
+    );
 }
-
-export default App;
