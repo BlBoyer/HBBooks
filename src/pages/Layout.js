@@ -1,6 +1,7 @@
 import React, {useState, useEffect} from 'react';
 import { AuthenticatedTemplate } from '@azure/msal-react';
 import Loading from './Loading.js';
+import Footer from '../components/Footer';
 import '../styles/styles.css';
 var Comploader = React.lazy(() => import('./Welcome'));
 export default function Layout({capsule}){
@@ -44,9 +45,9 @@ export default function Layout({capsule}){
                         aria-expanded="false" aria-label="Toggle navigation">
                     <span className="navbar-toggler-icon"></span>
                 </button>
-                <div className="col-1 collapsable"><hr align="center" /></div>{/* make a divider here */}
+                <div className="col-1 collapsable"><hr align="center" /></div>
                 <div className="navbar-collapse collapse d-sm-inline-flex justify-content-between">
-                    <ul className="navbar-nav flex-grow-1">
+                    <ul className="navbar-nav flex-grow-1 border border-1">
                         <li className="nav-item">
                             <a id="Welcome" className="nav-link" href="/#Welcome">HOME</a>
                         </li>
@@ -58,7 +59,7 @@ export default function Layout({capsule}){
                         </li>
                     </ul>
                 </div>
-                <div className="col-8 collapsable"><hr align="center" /></div>{/* make a divider here */}
+                <div className="col collapsable"><div><hr align="center" /></div></div>
             </div>
             <AuthenticatedTemplate>
                 <div className="me-5 navbar-collapse collapse">
@@ -72,11 +73,7 @@ export default function Layout({capsule}){
             <Comploader {...capsule} />
         </React.Suspense>
     </div>
-    <footer className="border-top footer text-muted">
-        <div className="container">
-            &copy; 2022 - HattyBartyBooks - <a>About</a>
-        </div>
-        </footer>
-        </div>
+    <Footer />
+    </div>
     )
 };
