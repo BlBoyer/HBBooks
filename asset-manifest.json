@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/HBBooks/static/css/main.d2add27e.css",
-    "main.js": "/HBBooks/static/js/main.9dbc7134.js",
+    "main.js": "/HBBooks/static/js/main.dc994b6d.js",
     "static/js/443.ce3c9096.chunk.js": "/HBBooks/static/js/443.ce3c9096.chunk.js",
     "static/js/964.01b48fa9.chunk.js": "/HBBooks/static/js/964.01b48fa9.chunk.js",
-    "static/js/694.4d6f59aa.chunk.js": "/HBBooks/static/js/694.4d6f59aa.chunk.js",
+    "static/js/694.e131f549.chunk.js": "/HBBooks/static/js/694.e131f549.chunk.js",
     "static/js/787.8a295581.chunk.js": "/HBBooks/static/js/787.8a295581.chunk.js",
     "static/media/headerImg.jpg": "/HBBooks/static/media/headerImg.af7cdefdb0c11cb70415.jpg",
     "static/media/monthThree.jpg": "/HBBooks/static/media/monthThree.6310404c306b0d604d50.jpg",
@@ -12,14 +12,14 @@
     "static/media/monthTwo.jpg": "/HBBooks/static/media/monthTwo.30542e4a57a13b651b92.jpg",
     "index.html": "/HBBooks/index.html",
     "main.d2add27e.css.map": "/HBBooks/static/css/main.d2add27e.css.map",
-    "main.9dbc7134.js.map": "/HBBooks/static/js/main.9dbc7134.js.map",
+    "main.dc994b6d.js.map": "/HBBooks/static/js/main.dc994b6d.js.map",
     "443.ce3c9096.chunk.js.map": "/HBBooks/static/js/443.ce3c9096.chunk.js.map",
     "964.01b48fa9.chunk.js.map": "/HBBooks/static/js/964.01b48fa9.chunk.js.map",
-    "694.4d6f59aa.chunk.js.map": "/HBBooks/static/js/694.4d6f59aa.chunk.js.map",
+    "694.e131f549.chunk.js.map": "/HBBooks/static/js/694.e131f549.chunk.js.map",
     "787.8a295581.chunk.js.map": "/HBBooks/static/js/787.8a295581.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d2add27e.css",
-    "static/js/main.9dbc7134.js"
+    "static/js/main.dc994b6d.js"
   ]
 }
