@@ -1,38 +1,33 @@
-import { useEffect } from 'react';
-import {useState} from 'react';
+import { useState, useEffect } from 'react';
 //give an options parameter for carousel options, like cycle, arrow, etc.
 export default function Carousel({images, identifier})
 {
     //test images is array of images
     var [active, setActive] = useState(0);
-    var [isLoaded, setLoaded] = useState(false);
+    var [count, setCount] = useState(0);
     //var display = document.getElementById(identifier);
     //setInterval change image, or translate mosaic
     //we're going to translate the old pic out as it fades out, and fade the new one in or vice versa.
-    useEffect(()=>{
-        let interval = null;
-        if (isLoaded){
-            setInterval(()=>
-            {
-/*                 console.log(display.classList.contains('fade-in'));
-                if (!display.classList.contains('fade-in')){
-                    display.classList.add('fade-in');
-                } */
-                //remove the class before switching the src but only on interval, which once changed will add the class again
-                //display.classList.remove('fade-in');
-                switch(active)
-                {
-                    case 0: setActive(1); break;
-                    case 1: setActive(2); break;
-                    case 2: setActive(0); break;
-                }
-            }, 4000);
-        }
-        if (!isLoaded)
+    useEffect(()=>
+    {
+        var interval=setInterval(()=>
         {
-        setLoaded(true);
+            setCount(count=>count+1);
+        },4000);
+        return ()=>clearInterval(interval);
+    },[]);
+    useEffect(()=>{
+        console.log(`useEffect ${count}, current img state: ${active}`);
+        if (count > 0)
+        {
+            switch(active)
+            {
+                case(0):setActive(1);break;
+                case(1):setActive(2);break;
+                case(2):setActive(0);break;
+            }
         }
-    }, [active, isLoaded]);
+    }, [count]);
     return (
         <div className="row justify-content-center myCarousel mt-3 mb-5">
             <div className="col-8 bg-light">
