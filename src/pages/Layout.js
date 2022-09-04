@@ -49,13 +49,13 @@ export default function Layout({capsule}){
                 <div className="navbar-collapse collapse d-sm-inline-flex justify-content-between">
                     <ul className="navbar-nav flex-grow-1 border border-1">
                         <li className="nav-item">
-                            <a id="Welcome" className="nav-link" href="/#Welcome">HOME</a>
+                            <a id="Welcome" className="nav-link" href={`${process.env.PUBLIC_URL}/#Welcome`}>HOME</a>
                         </li>
                         <li className="nav-item">
-                        <a id="Books" className="nav-link" href="/#Books">BOOKS</a>
+                        <a id="Books" className="nav-link" href={`${process.env.PUBLIC_URL}/#Books`}>BOOKS</a>
                         </li>
                         <li className="nav-item">
-                        <a id="About" className="nav-link" href="/#About">ABOUT</a>
+                        <a id="About" className="nav-link" href={`${process.env.PUBLIC_URL}/#About`}>ABOUT</a>
                         </li>
                     </ul>
                 </div>
