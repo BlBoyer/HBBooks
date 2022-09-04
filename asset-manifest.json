@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/HBBooks/static/css/main.d2add27e.css",
-    "main.js": "/HBBooks/static/js/main.42b9bd04.js",
+    "main.js": "/HBBooks/static/js/main.b9ca2adc.js",
     "static/js/443.ce3c9096.chunk.js": "/HBBooks/static/js/443.ce3c9096.chunk.js",
     "static/js/964.01b48fa9.chunk.js": "/HBBooks/static/js/964.01b48fa9.chunk.js",
     "static/js/694.134cd0d0.chunk.js": "/HBBooks/static/js/694.134cd0d0.chunk.js",
@@ -12,7 +12,7 @@
     "static/media/monthTwo.jpg": "/HBBooks/static/media/monthTwo.30542e4a57a13b651b92.jpg",
     "index.html": "/HBBooks/index.html",
     "main.d2add27e.css.map": "/HBBooks/static/css/main.d2add27e.css.map",
-    "main.42b9bd04.js.map": "/HBBooks/static/js/main.42b9bd04.js.map",
+    "main.b9ca2adc.js.map": "/HBBooks/static/js/main.b9ca2adc.js.map",
     "443.ce3c9096.chunk.js.map": "/HBBooks/static/js/443.ce3c9096.chunk.js.map",
     "964.01b48fa9.chunk.js.map": "/HBBooks/static/js/964.01b48fa9.chunk.js.map",
     "694.134cd0d0.chunk.js.map": "/HBBooks/static/js/694.134cd0d0.chunk.js.map",
@@ -20,6 +20,6 @@
   },
   "entrypoints": [
     "static/css/main.d2add27e.css",
-    "static/js/main.42b9bd04.js"
+    "static/js/main.b9ca2adc.js"
   ]
 }
