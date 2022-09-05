@@ -5,6 +5,7 @@ export default function Carousel({images, identifier})
     //test images is array of images
     var [active, setActive] = useState(0);
     var [count, setCount] = useState(0);
+    var [timer, setTimer] = useState(4000);
     //var display = document.getElementById(identifier);
     //setInterval change image, or translate mosaic
     //we're going to translate the old pic out as it fades out, and fade the new one in or vice versa.
@@ -13,11 +14,16 @@ export default function Carousel({images, identifier})
         var interval=setInterval(()=>
         {
             setCount(count=>count+1);
-        },4000);
+        }, timer);
         return ()=>clearInterval(interval);
     },[]);
     useEffect(()=>{
         console.log(`useEffect ${count}, current img state: ${active}`);
+        //this is switching too early on the first two iterations
+        if (count==1)
+        {
+            setTimer(4000);
+        }
         if (count > 0)
         {
             switch(active)
