@@ -1,27 +1,29 @@
 {
   "files": {
     "main.css": "/HBBooks/static/css/main.d2add27e.css",
-    "main.js": "/HBBooks/static/js/main.f5c250d3.js",
+    "main.js": "/HBBooks/static/js/main.a15c223c.js",
     "static/js/443.f80a12d0.chunk.js": "/HBBooks/static/js/443.f80a12d0.chunk.js",
     "static/js/964.01b48fa9.chunk.js": "/HBBooks/static/js/964.01b48fa9.chunk.js",
-    "static/js/68.55a4ea4f.chunk.js": "/HBBooks/static/js/68.55a4ea4f.chunk.js",
+    "static/js/68.915ece2a.chunk.js": "/HBBooks/static/js/68.915ece2a.chunk.js",
     "static/js/787.8a295581.chunk.js": "/HBBooks/static/js/787.8a295581.chunk.js",
-    "static/js/931.1f30e2f2.chunk.js": "/HBBooks/static/js/931.1f30e2f2.chunk.js",
+    "static/js/931.27bbc52d.chunk.js": "/HBBooks/static/js/931.27bbc52d.chunk.js",
+    "static/js/607.0beef1f6.chunk.js": "/HBBooks/static/js/607.0beef1f6.chunk.js",
     "static/media/headerImg.jpg": "/HBBooks/static/media/headerImg.af7cdefdb0c11cb70415.jpg",
     "static/media/monthThree.jpg": "/HBBooks/static/media/monthThree.6310404c306b0d604d50.jpg",
     "static/media/monthOne.jpg": "/HBBooks/static/media/monthOne.3b3d7f04e1c825664573.jpg",
     "static/media/monthTwo.jpg": "/HBBooks/static/media/monthTwo.30542e4a57a13b651b92.jpg",
     "index.html": "/HBBooks/index.html",
     "main.d2add27e.css.map": "/HBBooks/static/css/main.d2add27e.css.map",
-    "main.f5c250d3.js.map": "/HBBooks/static/js/main.f5c250d3.js.map",
+    "main.a15c223c.js.map": "/HBBooks/static/js/main.a15c223c.js.map",
     "443.f80a12d0.chunk.js.map": "/HBBooks/static/js/443.f80a12d0.chunk.js.map",
     "964.01b48fa9.chunk.js.map": "/HBBooks/static/js/964.01b48fa9.chunk.js.map",
-    "68.55a4ea4f.chunk.js.map": "/HBBooks/static/js/68.55a4ea4f.chunk.js.map",
+    "68.915ece2a.chunk.js.map": "/HBBooks/static/js/68.915ece2a.chunk.js.map",
     "787.8a295581.chunk.js.map": "/HBBooks/static/js/787.8a295581.chunk.js.map",
-    "931.1f30e2f2.chunk.js.map": "/HBBooks/static/js/931.1f30e2f2.chunk.js.map"
+    "931.27bbc52d.chunk.js.map": "/HBBooks/static/js/931.27bbc52d.chunk.js.map",
+    "607.0beef1f6.chunk.js.map": "/HBBooks/static/js/607.0beef1f6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d2add27e.css",
-    "static/js/main.f5c250d3.js"
+    "static/js/main.a15c223c.js"
   ]
 }
