@@ -12,6 +12,10 @@ footer
     font-size: 1.1em;
     color:var(--bs-gray-600);
 }
+.main.text .indent
+{
+    text-indent: 40px;
+}
 .main .heading
 {
     font-family: 'Questrial';
