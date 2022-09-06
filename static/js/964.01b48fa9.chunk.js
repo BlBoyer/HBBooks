@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkhattybartybooks=self.webpackChunkhattybartybooks||[]).push([[964],{964:function(t,e,n){n.r(e),n.d(e,{default:function(){return a}});var s=n(184);function a(t){t.capsule;return(0,s.jsx)("div",{className:"row mx-2 justify-content-center main",children:(0,s.jsx)("p",{className:"col-1 subheading",children:"About"})})}}}]);
-//# sourceMappingURL=964.01b48fa9.chunk.js.map
