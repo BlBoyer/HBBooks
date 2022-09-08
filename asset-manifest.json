@@ -1,27 +1,28 @@
 {
   "files": {
-    "main.css": "/HBBooks/static/css/main.b5a53ce4.css",
-    "main.js": "/HBBooks/static/js/main.8b2f40b1.js",
-    "static/js/443.fb8a76bb.chunk.js": "/HBBooks/static/js/443.fb8a76bb.chunk.js",
-    "static/js/964.edc0f585.chunk.js": "/HBBooks/static/js/964.edc0f585.chunk.js",
-    "static/js/723.0e79faf1.chunk.js": "/HBBooks/static/js/723.0e79faf1.chunk.js",
-    "static/js/694.11767282.chunk.js": "/HBBooks/static/js/694.11767282.chunk.js",
+    "main.css": "/HBBooks/static/css/main.2fafa51f.css",
+    "main.js": "/HBBooks/static/js/main.d55e6ad2.js",
+    "static/js/443.a7bcf048.chunk.js": "/HBBooks/static/js/443.a7bcf048.chunk.js",
+    "static/js/367.82add1f2.chunk.js": "/HBBooks/static/js/367.82add1f2.chunk.js",
+    "static/js/694.faae4511.chunk.js": "/HBBooks/static/js/694.faae4511.chunk.js",
     "static/js/787.8a295581.chunk.js": "/HBBooks/static/js/787.8a295581.chunk.js",
-    "static/media/headerImg.jpg": "/HBBooks/static/media/headerImg.af7cdefdb0c11cb70415.jpg",
-    "static/media/monthThree.jpg": "/HBBooks/static/media/monthThree.6310404c306b0d604d50.jpg",
-    "static/media/monthOne.jpg": "/HBBooks/static/media/monthOne.3b3d7f04e1c825664573.jpg",
+    "static/media/monthThree.jpg": "/HBBooks/static/media/monthThree.0cec017d295dd1675fa2.jpg",
+    "static/media/monthOne.jpg": "/HBBooks/static/media/monthOne.4d36bad5da2e13d38d05.jpg",
+    "static/media/illustrator.jpg": "/HBBooks/static/media/illustrator.623e8884c71abcae367a.jpg",
+    "static/media/headerImg.jpg": "/HBBooks/static/media/headerImg.3e16fafece4e6cdc93f6.jpg",
+    "static/media/authorIllustrator.jpg": "/HBBooks/static/media/authorIllustrator.2c5864422433492c79ea.jpg",
+    "static/media/author.jpg": "/HBBooks/static/media/author.c444d94b816c4d29c9f5.jpg",
     "static/media/monthTwo.jpg": "/HBBooks/static/media/monthTwo.30542e4a57a13b651b92.jpg",
     "index.html": "/HBBooks/index.html",
-    "main.b5a53ce4.css.map": "/HBBooks/static/css/main.b5a53ce4.css.map",
-    "main.8b2f40b1.js.map": "/HBBooks/static/js/main.8b2f40b1.js.map",
-    "443.fb8a76bb.chunk.js.map": "/HBBooks/static/js/443.fb8a76bb.chunk.js.map",
-    "964.edc0f585.chunk.js.map": "/HBBooks/static/js/964.edc0f585.chunk.js.map",
-    "723.0e79faf1.chunk.js.map": "/HBBooks/static/js/723.0e79faf1.chunk.js.map",
-    "694.11767282.chunk.js.map": "/HBBooks/static/js/694.11767282.chunk.js.map",
+    "main.2fafa51f.css.map": "/HBBooks/static/css/main.2fafa51f.css.map",
+    "main.d55e6ad2.js.map": "/HBBooks/static/js/main.d55e6ad2.js.map",
+    "443.a7bcf048.chunk.js.map": "/HBBooks/static/js/443.a7bcf048.chunk.js.map",
+    "367.82add1f2.chunk.js.map": "/HBBooks/static/js/367.82add1f2.chunk.js.map",
+    "694.faae4511.chunk.js.map": "/HBBooks/static/js/694.faae4511.chunk.js.map",
     "787.8a295581.chunk.js.map": "/HBBooks/static/js/787.8a295581.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b5a53ce4.css",
-    "static/js/main.8b2f40b1.js"
+    "static/css/main.2fafa51f.css",
+    "static/js/main.d55e6ad2.js"
   ]
 }
