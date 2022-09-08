@@ -4,15 +4,15 @@ export default function Welcome({...capsule})
     return (
         <div>
             <div className="row mx-0 justify-content-center main bg-light">
-                <p className="col-1 subheading">Welcome</p>
+                <p className="col fit subheading">Welcome</p>
                 <img src={banner} alt="excerpt pic from book cover" className="img-fluid px-0" />
             </div><br/>
                 <div className="col mx-2">
                     <div className="row justify-content-center main">
-                        <p className="col-3 subheading lg mt-5 mb-5">Introduction by the Author</p><br/>
+                        <p className="col-3 subheading lg adj mt-5 mb-5">Introduction by the Author</p><br/>
                     </div>
                     <div className="row justify-content-center mb-2 main text">
-                        <div className="col-5">
+                        <div className="col">
                             <p className="indent">When my children were little I told them bedtime stories most every night. 
                             One evening I created the characters Hatty and Barty and told them a story about these new fictional characters.  
                             Both of my children loved this story so much that from that night forward they would only let me tell them 

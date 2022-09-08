@@ -46,8 +46,8 @@ export default function Layout({capsule}){
                     <span className="navbar-toggler-icon"></span>
                 </button>
                 <div className="col-1 collapsable"><hr align="center" /></div>
-                <div className="navbar-collapse collapse d-sm-inline-flex justify-content-between">
-                    <ul className="navbar-nav flex-grow-1 border border-1">
+                <div className="navbar-collapse fit collapse d-sm-inline-flex justify-content-between border border-1">
+                    <ul className="navbar-nav fit flex-grow-1">
                         <li className="nav-item">
                             <a id="Welcome" className="nav-link" href={`${process.env.PUBLIC_URL}/#Welcome`}>HOME</a>
                         </li>

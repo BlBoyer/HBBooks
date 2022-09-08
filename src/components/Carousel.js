@@ -24,6 +24,7 @@ export default function Carousel({images, identifier})
         {
             setTimer(4000);
         }
+        //try to make the count higher by one to give things time to catch up, there should be a better answer than this.
         if (count > 0)
         {
             switch(active)
@@ -38,7 +39,7 @@ export default function Carousel({images, identifier})
         <div className="row justify-content-center myCarousel mt-3 mb-5">
             <div className="col-8 bg-light">
                 <div className="row justify-content-center">
-                    <div className="col-7">
+                    <div className="col-7 d-flex justify-content-center">
                     <img src={images[active]} id={identifier} className="img img-fluid fade-in" alt="book picture" />
                     </div>
                 </div>

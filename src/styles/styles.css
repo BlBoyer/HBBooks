@@ -1,3 +1,7 @@
+body
+{
+    overflow-x: hidden;
+}
 footer
 {
     box-shadow:0px -4px 5px -2px var(--bs-gray-200);
@@ -6,11 +10,21 @@ footer
 {
     background-color: var(--bs-gray-100);
 }
+.fit
+{
+    max-width: fit-content;
+}
 .main.text
 {
     font-family: 'Gentium Basic';
     font-size: 1.1em;
     color:var(--bs-gray-600);
+}
+/*main text with col child*/
+.main.text .col
+{
+    min-width: 40vw;
+    max-width: 50vw;
 }
 .main.text .indent
 {
@@ -42,27 +56,29 @@ footer
 .myCarousel{
     border:1px solid var(--bs-gray-500);
 }
+/*pic is 400px * 500px original, I had height as 60vh*/
 .myCarousel .img
 {
-    width: 100%;
-    height: 60vh;
+    max-width: 40vw;
+    height: calc(width*1.25);
     border: 2px solid var(--bs-gray-500);
     border-radius: 20px;
     animation: 4s infinite img-fade-in;
     animation-timing-function: cubic-bezier(.8, 0, 0.6, 0);
 }
-.navbar-nav
-{
-    max-width: fit-content;
-}
-.navbar-collapse
-{
-    max-width:fit-content;
-}
 .subheading.lg
 {
     font-family: 'Raleway';
     font-size: 1.8em;
+}
+.subheading-adj
+{
+    min-width: 172px;
+}
+.subnav .nav-link
+{
+    padding: 0px 10px;
+    cursor: pointer;
 }
 #banner
 {
@@ -73,6 +89,23 @@ footer
     .collapsable
     {
         display: none;
+    }
+    .navbar-nav .nav-link
+    {
+       padding : 0px 10px;
+    }
+    .subnav 
+    {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+}
+@media (min-width: 768px)
+{
+    .myCarousel .img
+    {
+        max-width: 23vw;
     }
 }
 @keyframes img-fade-in

@@ -8,7 +8,7 @@ export default function Books({capsule})
     return (
         <div>
             <div className="row mx-2 justify-content-center main">
-            <p className="col-1 mb-3 subheading">Books</p>
+            <p className="col fit mb-3 subheading">Books</p>
             </div>
             <Carousel images={imageArr} identifier="disp1" />
             <div className="row justify-content-center mb-2 main text">
