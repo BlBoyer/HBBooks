@@ -6,6 +6,24 @@ footer
 {
     box-shadow:0px -4px 5px -2px var(--bs-gray-200);
 }
+.about-card
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.about-card div:first-child
+{
+    max-width: 30vw;
+}
+.about-card div:nth-of-type(2)
+{
+    max-width: 50vw;
+}
+.card-img
+{
+    max-width: 384px;
+}
 .disabled
 {
     background-color: var(--bs-gray-100);
@@ -23,8 +41,7 @@ footer
 /*main text with col child*/
 .main.text .col
 {
-    min-width: 40vw;
-    max-width: 50vw;
+    max-width: 40vw;
 }
 .main.text .indent
 {
@@ -86,10 +103,31 @@ footer
 }
 @media (max-width: 576px) 
 {
+    .about-card
+    {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .about-card div:first-child
+    {
+        max-width: 40vw;
+        padding-bottom: 20px;
+        border-bottom: 1px solid var(--bs-gray-500);
+    }
+    .about-card div:nth-of-type(2)
+    {
+        margin-top: 1em;
+        max-width: 60vw;
+    }
     .collapsable
     {
         display: none;
     }
+    .main.text .indent
+{
+    text-indent: 20px;
+}
     .navbar-nav .nav-link
     {
        padding : 0px 10px;
@@ -99,6 +137,13 @@ footer
         display: flex;
         flex-direction: column;
         align-items: center;
+    }
+}
+@media (min-width: 576px)
+{
+    .disp-sm
+    {
+        display: none;
     }
 }
 @media (min-width: 768px)
