@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/HBBooks/static/css/main.58abf947.css",
-    "main.js": "/HBBooks/static/js/main.70e98c1e.js",
-    "static/js/443.a7bcf048.chunk.js": "/HBBooks/static/js/443.a7bcf048.chunk.js",
-    "static/js/367.a607e678.chunk.js": "/HBBooks/static/js/367.a607e678.chunk.js",
-    "static/js/694.23b45853.chunk.js": "/HBBooks/static/js/694.23b45853.chunk.js",
-    "static/js/787.8a295581.chunk.js": "/HBBooks/static/js/787.8a295581.chunk.js",
-    "static/media/monthTwo.jpg": "/HBBooks/static/media/monthTwo.5170f013cce4b08267a2.jpg",
-    "static/media/monthOne.jpg": "/HBBooks/static/media/monthOne.5c1c04625c6f03d42b2f.jpg",
-    "static/media/monthThree.jpg": "/HBBooks/static/media/monthThree.7e1eb1278b403ebb5ea5.jpg",
-    "static/media/headerImg.jpg": "/HBBooks/static/media/headerImg.3e16fafece4e6cdc93f6.jpg",
-    "static/media/authorIllustrator.jpg": "/HBBooks/static/media/authorIllustrator.1b011fd9aa381991bd5f.jpg",
-    "static/media/illustrator.jpg": "/HBBooks/static/media/illustrator.5a58399b19fb053164c6.jpg",
-    "static/media/author.jpg": "/HBBooks/static/media/author.c444d94b816c4d29c9f5.jpg",
-    "index.html": "/HBBooks/index.html",
-    "main.58abf947.css.map": "/HBBooks/static/css/main.58abf947.css.map",
-    "main.70e98c1e.js.map": "/HBBooks/static/js/main.70e98c1e.js.map",
-    "443.a7bcf048.chunk.js.map": "/HBBooks/static/js/443.a7bcf048.chunk.js.map",
-    "367.a607e678.chunk.js.map": "/HBBooks/static/js/367.a607e678.chunk.js.map",
-    "694.23b45853.chunk.js.map": "/HBBooks/static/js/694.23b45853.chunk.js.map",
-    "787.8a295581.chunk.js.map": "/HBBooks/static/js/787.8a295581.chunk.js.map"
+    "main.css": "https://blboyer.github.io/HBBooks/static/css/main.8341294d.css",
+    "main.js": "https://blboyer.github.io/HBBooks/static/js/main.e5816850.js",
+    "static/js/443.e35129d9.chunk.js": "https://blboyer.github.io/HBBooks/static/js/443.e35129d9.chunk.js",
+    "static/js/367.a607e678.chunk.js": "https://blboyer.github.io/HBBooks/static/js/367.a607e678.chunk.js",
+    "static/js/613.f3288d96.chunk.js": "https://blboyer.github.io/HBBooks/static/js/613.f3288d96.chunk.js",
+    "static/js/787.8a295581.chunk.js": "https://blboyer.github.io/HBBooks/static/js/787.8a295581.chunk.js",
+    "static/media/monthTwo.jpg": "https://blboyer.github.io/HBBooks/static/media/monthTwo.5170f013cce4b08267a2.jpg",
+    "static/media/monthOne.jpg": "https://blboyer.github.io/HBBooks/static/media/monthOne.5c1c04625c6f03d42b2f.jpg",
+    "static/media/monthThree.jpg": "https://blboyer.github.io/HBBooks/static/media/monthThree.7e1eb1278b403ebb5ea5.jpg",
+    "static/media/headerImg.jpg": "https://blboyer.github.io/HBBooks/static/media/headerImg.3e16fafece4e6cdc93f6.jpg",
+    "static/media/authorIllustrator.jpg": "https://blboyer.github.io/HBBooks/static/media/authorIllustrator.1b011fd9aa381991bd5f.jpg",
+    "static/media/illustrator.jpg": "https://blboyer.github.io/HBBooks/static/media/illustrator.5a58399b19fb053164c6.jpg",
+    "static/media/author.jpg": "https://blboyer.github.io/HBBooks/static/media/author.c444d94b816c4d29c9f5.jpg",
+    "index.html": "https://blboyer.github.io/HBBooks/index.html",
+    "main.8341294d.css.map": "https://blboyer.github.io/HBBooks/static/css/main.8341294d.css.map",
+    "main.e5816850.js.map": "https://blboyer.github.io/HBBooks/static/js/main.e5816850.js.map",
+    "443.e35129d9.chunk.js.map": "https://blboyer.github.io/HBBooks/static/js/443.e35129d9.chunk.js.map",
+    "367.a607e678.chunk.js.map": "https://blboyer.github.io/HBBooks/static/js/367.a607e678.chunk.js.map",
+    "613.f3288d96.chunk.js.map": "https://blboyer.github.io/HBBooks/static/js/613.f3288d96.chunk.js.map",
+    "787.8a295581.chunk.js.map": "https://blboyer.github.io/HBBooks/static/js/787.8a295581.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.58abf947.css",
-    "static/js/main.70e98c1e.js"
+    "static/css/main.8341294d.css",
+    "static/js/main.e5816850.js"
   ]
 }
