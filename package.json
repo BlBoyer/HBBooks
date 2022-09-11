@@ -20,6 +20,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
+    "serve": "node server.js",
     "predeploy": "npm run build",
     "deploy": "gh-pages -b production -d build",
     "test": "react-scripts test",
