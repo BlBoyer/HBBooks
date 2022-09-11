@@ -6,8 +6,13 @@ export default function BookLink({book})
         <div className="d-flex">
             <div className="me-2 align-self-start"><p><strong>{bookName}</strong></p></div>
             <div className="breakable-links">
-                {book["urls"].map((urlObj, ind) => 
-                <a href={Object.entries(urlObj)[0][1]} className="mx-1" key={ind}>{Object.entries(urlObj)[0][0]}</a>
+                {book["urls"].map(function(urlObj, ind)
+                    {
+                        if(Object.entries(urlObj)[0][1].length > 0)
+                        {
+                            return <a href={Object.entries(urlObj)[0][1]} className="mx-1" key={ind}>{Object.entries(urlObj)[0][0]}</a>;
+                        }
+                    }
                 )}
             </div>
         </div>
