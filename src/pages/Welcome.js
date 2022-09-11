@@ -1,4 +1,4 @@
-import banner from '../img/headerImg.jpg';
+import banner from '../img/banner_edit.png';
 export default function Welcome({...capsule})
 {
     return (
@@ -30,7 +30,7 @@ export default function Welcome({...capsule})
                             consternation.
                             </p>
                             <p className="indent">
-                            You the reader, have one benefit that my children did not always have; and that is all of the bedtime stories 
+                            <em>You</em> the reader, have one benefit that my children did not always have; and that is all of the bedtime stories 
                             in these books, created many years ago, have an ending even though some still include the infamous 
                             "to be continued" phrase in them.
                             </p>

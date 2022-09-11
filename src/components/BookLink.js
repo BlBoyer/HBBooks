@@ -11,6 +11,9 @@ export default function BookLink({book})
                         if(Object.entries(urlObj)[0][1].length > 0)
                         {
                             return <a href={Object.entries(urlObj)[0][1]} className="mx-1" key={ind}>{Object.entries(urlObj)[0][0]}</a>;
+                        } else 
+                        {
+                            return <a href="" className="mx-1 nav-item pe-none" key={ind}>&#199;S!</a>
                         }
                     }
                 )}

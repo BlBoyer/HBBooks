@@ -41,7 +41,6 @@ export default function Story()
                         <b>Maria Bondarenko</b> for generating ideas.
                         <br/><br/>
                         And finally, to those who read this book and the books that will soon follow this one! Thank you for being part of my world!
-                        Coming soon www.hattyandbarty.com 
                         <br/><br/>
                         Grant
                     </p>
