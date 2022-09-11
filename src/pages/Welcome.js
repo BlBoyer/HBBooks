@@ -1,4 +1,4 @@
-import banner from '../img/banner_edit.png';
+import banner from '../img/banner.jpg';
 export default function Welcome({...capsule})
 {
     return (
