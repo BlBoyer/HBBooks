@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "https://blboyer.github.io/HBBooks/static/css/main.8341294d.css",
-    "main.js": "https://blboyer.github.io/HBBooks/static/js/main.e5816850.js",
+    "main.js": "https://blboyer.github.io/HBBooks/static/js/main.b2fadd27.js",
     "static/js/443.e35129d9.chunk.js": "https://blboyer.github.io/HBBooks/static/js/443.e35129d9.chunk.js",
     "static/js/367.a607e678.chunk.js": "https://blboyer.github.io/HBBooks/static/js/367.a607e678.chunk.js",
-    "static/js/613.f3288d96.chunk.js": "https://blboyer.github.io/HBBooks/static/js/613.f3288d96.chunk.js",
+    "static/js/613.8bc4da8d.chunk.js": "https://blboyer.github.io/HBBooks/static/js/613.8bc4da8d.chunk.js",
     "static/js/787.8a295581.chunk.js": "https://blboyer.github.io/HBBooks/static/js/787.8a295581.chunk.js",
     "static/media/monthTwo.jpg": "https://blboyer.github.io/HBBooks/static/media/monthTwo.5170f013cce4b08267a2.jpg",
     "static/media/monthOne.jpg": "https://blboyer.github.io/HBBooks/static/media/monthOne.5c1c04625c6f03d42b2f.jpg",
@@ -15,14 +15,14 @@
     "static/media/author.jpg": "https://blboyer.github.io/HBBooks/static/media/author.c444d94b816c4d29c9f5.jpg",
     "index.html": "https://blboyer.github.io/HBBooks/index.html",
     "main.8341294d.css.map": "https://blboyer.github.io/HBBooks/static/css/main.8341294d.css.map",
-    "main.e5816850.js.map": "https://blboyer.github.io/HBBooks/static/js/main.e5816850.js.map",
+    "main.b2fadd27.js.map": "https://blboyer.github.io/HBBooks/static/js/main.b2fadd27.js.map",
     "443.e35129d9.chunk.js.map": "https://blboyer.github.io/HBBooks/static/js/443.e35129d9.chunk.js.map",
     "367.a607e678.chunk.js.map": "https://blboyer.github.io/HBBooks/static/js/367.a607e678.chunk.js.map",
-    "613.f3288d96.chunk.js.map": "https://blboyer.github.io/HBBooks/static/js/613.f3288d96.chunk.js.map",
+    "613.8bc4da8d.chunk.js.map": "https://blboyer.github.io/HBBooks/static/js/613.8bc4da8d.chunk.js.map",
     "787.8a295581.chunk.js.map": "https://blboyer.github.io/HBBooks/static/js/787.8a295581.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8341294d.css",
-    "static/js/main.e5816850.js"
+    "static/js/main.b2fadd27.js"
   ]
 }
