@@ -18,7 +18,7 @@ export default function Carousel({images, identifier})
         return ()=>clearInterval(interval);
     },[]);
     useEffect(()=>{
-        console.log(`useEffect ${count}, current img state: ${active}`);
+        //console.log(`useEffect ${count}, current img state: ${active}`);
         //this is switching too early on the first two iterations
         if (count==1)
         {

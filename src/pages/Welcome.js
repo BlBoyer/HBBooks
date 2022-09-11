@@ -9,7 +9,7 @@ export default function Welcome({...capsule})
             </div><br/>
                 <div className="col mx-2">
                     <div className="row justify-content-center main">
-                        <p className="col-3 subheading lg adj mt-5 mb-5">Introduction by the Author</p><br/>
+                        <p className="col-3 subheading lg subheading-adj mt-5 mb-5">Introduction by the Author</p><br/>
                     </div>
                     <div className="row justify-content-center mb-2 main text">
                         <div className="col">
