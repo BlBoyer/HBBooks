@@ -1,11 +1,12 @@
 {
   "files": {
     "main.css": "https://blboyer.github.io/HBBooks/static/css/main.8341294d.css",
-    "main.js": "https://blboyer.github.io/HBBooks/static/js/main.b2fadd27.js",
-    "static/js/443.e35129d9.chunk.js": "https://blboyer.github.io/HBBooks/static/js/443.e35129d9.chunk.js",
-    "static/js/367.a607e678.chunk.js": "https://blboyer.github.io/HBBooks/static/js/367.a607e678.chunk.js",
-    "static/js/613.8bc4da8d.chunk.js": "https://blboyer.github.io/HBBooks/static/js/613.8bc4da8d.chunk.js",
+    "main.js": "https://blboyer.github.io/HBBooks/static/js/main.2c545ecf.js",
+    "static/js/779.ee2f9cee.chunk.js": "https://blboyer.github.io/HBBooks/static/js/779.ee2f9cee.chunk.js",
+    "static/js/367.d00a7d5e.chunk.js": "https://blboyer.github.io/HBBooks/static/js/367.d00a7d5e.chunk.js",
+    "static/js/613.5fc88d29.chunk.js": "https://blboyer.github.io/HBBooks/static/js/613.5fc88d29.chunk.js",
     "static/js/787.8a295581.chunk.js": "https://blboyer.github.io/HBBooks/static/js/787.8a295581.chunk.js",
+    "static/media/banner_edit.png": "https://blboyer.github.io/HBBooks/static/media/banner_edit.bbf40fe3f7c4256616f8.png",
     "static/media/monthTwo.jpg": "https://blboyer.github.io/HBBooks/static/media/monthTwo.5170f013cce4b08267a2.jpg",
     "static/media/monthOne.jpg": "https://blboyer.github.io/HBBooks/static/media/monthOne.5c1c04625c6f03d42b2f.jpg",
     "static/media/monthThree.jpg": "https://blboyer.github.io/HBBooks/static/media/monthThree.7e1eb1278b403ebb5ea5.jpg",
@@ -15,14 +16,14 @@
     "static/media/author.jpg": "https://blboyer.github.io/HBBooks/static/media/author.c444d94b816c4d29c9f5.jpg",
     "index.html": "https://blboyer.github.io/HBBooks/index.html",
     "main.8341294d.css.map": "https://blboyer.github.io/HBBooks/static/css/main.8341294d.css.map",
-    "main.b2fadd27.js.map": "https://blboyer.github.io/HBBooks/static/js/main.b2fadd27.js.map",
-    "443.e35129d9.chunk.js.map": "https://blboyer.github.io/HBBooks/static/js/443.e35129d9.chunk.js.map",
-    "367.a607e678.chunk.js.map": "https://blboyer.github.io/HBBooks/static/js/367.a607e678.chunk.js.map",
-    "613.8bc4da8d.chunk.js.map": "https://blboyer.github.io/HBBooks/static/js/613.8bc4da8d.chunk.js.map",
+    "main.2c545ecf.js.map": "https://blboyer.github.io/HBBooks/static/js/main.2c545ecf.js.map",
+    "779.ee2f9cee.chunk.js.map": "https://blboyer.github.io/HBBooks/static/js/779.ee2f9cee.chunk.js.map",
+    "367.d00a7d5e.chunk.js.map": "https://blboyer.github.io/HBBooks/static/js/367.d00a7d5e.chunk.js.map",
+    "613.5fc88d29.chunk.js.map": "https://blboyer.github.io/HBBooks/static/js/613.5fc88d29.chunk.js.map",
     "787.8a295581.chunk.js.map": "https://blboyer.github.io/HBBooks/static/js/787.8a295581.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8341294d.css",
-    "static/js/main.b2fadd27.js"
+    "static/js/main.2c545ecf.js"
   ]
 }
