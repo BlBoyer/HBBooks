@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "https://blboyer.github.io/HBBooks/static/css/main.8341294d.css",
-    "main.js": "https://blboyer.github.io/HBBooks/static/js/main.db361133.js",
+    "main.css": "https://blboyer.github.io/HBBooks/static/css/main.20806fb4.css",
+    "main.js": "https://blboyer.github.io/HBBooks/static/js/main.d1b599f0.js",
     "static/js/810.b32b963f.chunk.js": "https://blboyer.github.io/HBBooks/static/js/810.b32b963f.chunk.js",
-    "static/js/367.9535a128.chunk.js": "https://blboyer.github.io/HBBooks/static/js/367.9535a128.chunk.js",
+    "static/js/367.59927a1a.chunk.js": "https://blboyer.github.io/HBBooks/static/js/367.59927a1a.chunk.js",
     "static/js/613.ef686115.chunk.js": "https://blboyer.github.io/HBBooks/static/js/613.ef686115.chunk.js",
     "static/js/787.8a295581.chunk.js": "https://blboyer.github.io/HBBooks/static/js/787.8a295581.chunk.js",
     "static/media/monthTwo.jpg": "https://blboyer.github.io/HBBooks/static/media/monthTwo.5170f013cce4b08267a2.jpg",
@@ -15,15 +15,15 @@
     "static/media/illustrator.jpg": "https://blboyer.github.io/HBBooks/static/media/illustrator.5a58399b19fb053164c6.jpg",
     "static/media/author.jpg": "https://blboyer.github.io/HBBooks/static/media/author.c444d94b816c4d29c9f5.jpg",
     "index.html": "https://blboyer.github.io/HBBooks/index.html",
-    "main.8341294d.css.map": "https://blboyer.github.io/HBBooks/static/css/main.8341294d.css.map",
-    "main.db361133.js.map": "https://blboyer.github.io/HBBooks/static/js/main.db361133.js.map",
+    "main.20806fb4.css.map": "https://blboyer.github.io/HBBooks/static/css/main.20806fb4.css.map",
+    "main.d1b599f0.js.map": "https://blboyer.github.io/HBBooks/static/js/main.d1b599f0.js.map",
     "810.b32b963f.chunk.js.map": "https://blboyer.github.io/HBBooks/static/js/810.b32b963f.chunk.js.map",
-    "367.9535a128.chunk.js.map": "https://blboyer.github.io/HBBooks/static/js/367.9535a128.chunk.js.map",
+    "367.59927a1a.chunk.js.map": "https://blboyer.github.io/HBBooks/static/js/367.59927a1a.chunk.js.map",
     "613.ef686115.chunk.js.map": "https://blboyer.github.io/HBBooks/static/js/613.ef686115.chunk.js.map",
     "787.8a295581.chunk.js.map": "https://blboyer.github.io/HBBooks/static/js/787.8a295581.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8341294d.css",
-    "static/js/main.db361133.js"
+    "static/css/main.20806fb4.css",
+    "static/js/main.d1b599f0.js"
   ]
 }
