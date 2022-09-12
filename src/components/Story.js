@@ -13,9 +13,9 @@ export default function Story()
                 </div>
                 <div>
                     <p className="indent">
-                        Several years ago, while editing the book <a href="https://www.amazon.com/Break-Free-How-Get-Stay/dp/1732463719">Break Free</a> by Vladimir Savchuk, a thought entered my mind, that I should write my own book.
+                        Several years ago, while editing the book <a className="p-link" href="https://www.amazon.com/Break-Free-How-Get-Stay/dp/1732463719">Break Free</a> by Vladimir Savchuk, a thought entered my mind, that I should write my own book.
                         I remembered that when my children Elizabeth and Benjamin were little that I had created characters named Hatty and Barty that became their staple of bedtime story fare for several years running.
-                        This book: <a href="https://www.amazon.com/dp/1736840207">Hatty and Barty Adventures: Month One</a>  is a collection of these stories.</p>
+                        This book: <a className="p-link" href="https://www.amazon.com/dp/1736840207">Hatty and Barty Adventures: Month One</a>  is a collection of these stories.</p>
                         <p className="indent">
                         It takes a team to put a book together and I wish to recognize those who have helped to bring this day to fruition.
                         First of all, to my children, Elizabeth and Benjamin who were my inspiration for these characters and who made it fun for me to tell bedtime stories. These stories remind me of those many nights especially when I came up with the infamous phrase “to be continued” and the first words out of your mouths were “No dad!” Finish it!”
