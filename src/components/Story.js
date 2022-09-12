@@ -15,7 +15,7 @@ export default function Story()
                     <p className="indent">
                         Several years ago, while editing the book <a href="https://www.amazon.com/Break-Free-How-Get-Stay/dp/1732463719">Break Free</a> by Vladimir Savchuk, a thought entered my mind, that I should write my own book.
                         I remembered that when my children Elizabeth and Benjamin were little that I had created characters named Hatty and Barty that became their staple of bedtime story fare for several years running.
-                        This book: <a href="https://www.amazon.com/dp/1736840207">Hatty and Barty Adventures: Month One</a>...  is a collection of these stories.</p>
+                        This book: <a href="https://www.amazon.com/dp/1736840207">Hatty and Barty Adventures: Month One</a>  is a collection of these stories.</p>
                         <p className="indent">
                         It takes a team to put a book together and I wish to recognize those who have helped to bring this day to fruition.
                         First of all, to my children, Elizabeth and Benjamin who were my inspiration for these characters and who made it fun for me to tell bedtime stories. These stories remind me of those many nights especially when I came up with the infamous phrase “to be continued” and the first words out of your mouths were “No dad!” Finish it!”
@@ -33,6 +33,8 @@ export default function Story()
                         <b>Benjamin Boyer</b>, in addition to inspiring me when you were little, you also wrote a foreword for my book’s later editions. And now you are also preparing the HattyandBarty.com website for me. Thank you for being my son!
                         <br/><br/>
                         <b>My nephew</b>, who did a ton of behind the scenes stuff to help make this happen and continues to help with other stuff! A big thank you, you will remain anonymous as you wished!
+                        <br/><br/>
+                        <b>Jeanine Tuttle</b> for editing after book 5.
                         <br/><br/>
                         <b>Abner Solano</b>. Thanks for connecting me to the Spanish Translator.
                         <br/><br/>
