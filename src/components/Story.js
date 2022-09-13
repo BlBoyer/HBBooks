@@ -34,7 +34,7 @@ export default function Story()
                         <br/><br/>
                         <b>My nephew</b>, who did a ton of behind the scenes stuff to help make this happen and continues to help with other stuff! A big thank you, you will remain anonymous as you wished!
                         <br/><br/>
-                        <b>Jeanine Tuttle</b> for editing after book 5.
+                        <b>Jeannine Tuttle</b>, for editing book 5 and subsequent books.
                         <br/><br/>
                         <b>Abner Solano</b>. Thanks for connecting me to the Spanish Translator.
                         <br/><br/>
