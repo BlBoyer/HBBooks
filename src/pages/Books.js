@@ -5,10 +5,11 @@ import BookLink from '../components/BookLink';
 import img1 from '../img/monthOne.jpg';
 import img2 from '../img/monthTwo.jpg';
 import img3 from '../img/monthThree.jpg';
+import img4 from '../img/monthFour.png';
 const books = require('../data/books.json');
 export default function Books({capsule})
 {
-    const imageArr=[img1,img2,img3];
+    const imageArr=[img1,img2,img3, img4];
     return (
         <div>
             <div className="row mx-2 justify-content-center main">

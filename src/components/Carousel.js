@@ -20,18 +20,15 @@ export default function Carousel({images, identifier})
     useEffect(()=>{
         //console.log(`useEffect ${count}, current img state: ${active}`);
         //this is switching too early on the first two iterations
-        if (count==1)
-        {
-            setTimer(4000);
-        }
         //try to make the count higher by one to give things time to catch up, there should be a better answer than this.
-        if (count > 0)
+        if (count > 1)
         {
-            switch(active)
+            if (active==images.length-1)
             {
-                case(0):setActive(1);break;
-                case(1):setActive(2);break;
-                case(2):setActive(0);break;
+                setActive(0);
+            } else 
+            {
+                setActive(active=> active+=1);
             }
         }
     }, [count]);
