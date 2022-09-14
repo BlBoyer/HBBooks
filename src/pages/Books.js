@@ -2,21 +2,17 @@ import React from 'react';
 import Carousel from '../components/Carousel';
 import Loading from '../components/Loading';
 import BookLink from '../components/BookLink';
-const img1 = require('../img/monthOne.jpg');
-const img2 = require('../img/monthTwo.jpg');
-const img3 = require('../img/monthThree.jpg');
-const img4 = require('../img/monthFour.png');
 const books = require('../data/books.json');
+const BookCarousel = React.lazy(()=>import('../components/Carousel'));
 export default function Books({capsule})
 {
-    const imageArr=[img1,img2,img3, img4];
     return (
         <div>
             <div className="row mx-2 justify-content-center main">
             <p className="col fit mb-3 subheading">Books</p>
             </div>
             <React.Suspense fallback={<Loading />} >
-            <Carousel images={imageArr} identifier="disp1" />
+                <BookCarousel identifier="disp1" />
             </React.Suspense>
             <div className="row justify-content-center mb-2 main text">
                 <p className="col">

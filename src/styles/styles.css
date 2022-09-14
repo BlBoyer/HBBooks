@@ -87,7 +87,6 @@ footer
     border-radius: 20px;
     animation: 4s infinite img-fade-in;
     animation-timing-function: cubic-bezier(.8, 0, 0.6, 0);
-    animation-delay: 8s;
 }
 .p-link
 {
