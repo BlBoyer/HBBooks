@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "https://hattyandbarty.com/static/css/main.7ab1bac7.css",
-    "main.js": "https://hattyandbarty.com/static/js/main.273e2e4a.js",
+    "main.js": "https://hattyandbarty.com/static/js/main.a6282f09.js",
     "static/js/810.1437249f.chunk.js": "https://hattyandbarty.com/static/js/810.1437249f.chunk.js",
     "static/js/367.9377aa6c.chunk.js": "https://hattyandbarty.com/static/js/367.9377aa6c.chunk.js",
-    "static/js/437.c6392f5e.chunk.js": "https://hattyandbarty.com/static/js/437.c6392f5e.chunk.js",
+    "static/js/220.0215f15d.chunk.js": "https://hattyandbarty.com/static/js/220.0215f15d.chunk.js",
     "static/js/787.8a295581.chunk.js": "https://hattyandbarty.com/static/js/787.8a295581.chunk.js",
     "static/media/monthFour.png": "https://hattyandbarty.com/static/media/monthFour.0adbb7d333c4fddf2d4b.png",
     "static/media/monthTwo.jpg": "https://hattyandbarty.com/static/media/monthTwo.5170f013cce4b08267a2.jpg",
@@ -17,14 +17,14 @@
     "static/media/author.jpg": "https://hattyandbarty.com/static/media/author.c444d94b816c4d29c9f5.jpg",
     "index.html": "https://hattyandbarty.com/index.html",
     "main.7ab1bac7.css.map": "https://hattyandbarty.com/static/css/main.7ab1bac7.css.map",
-    "main.273e2e4a.js.map": "https://hattyandbarty.com/static/js/main.273e2e4a.js.map",
+    "main.a6282f09.js.map": "https://hattyandbarty.com/static/js/main.a6282f09.js.map",
     "810.1437249f.chunk.js.map": "https://hattyandbarty.com/static/js/810.1437249f.chunk.js.map",
     "367.9377aa6c.chunk.js.map": "https://hattyandbarty.com/static/js/367.9377aa6c.chunk.js.map",
-    "437.c6392f5e.chunk.js.map": "https://hattyandbarty.com/static/js/437.c6392f5e.chunk.js.map",
+    "220.0215f15d.chunk.js.map": "https://hattyandbarty.com/static/js/220.0215f15d.chunk.js.map",
     "787.8a295581.chunk.js.map": "https://hattyandbarty.com/static/js/787.8a295581.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7ab1bac7.css",
-    "static/js/main.273e2e4a.js"
+    "static/js/main.a6282f09.js"
   ]
 }
