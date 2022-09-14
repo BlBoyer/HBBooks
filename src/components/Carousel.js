@@ -43,7 +43,7 @@ export default function Carousel({images, identifier})
             <div className="col-8 bg-light">
                 <div className="row justify-content-center">
                     <div className="col-7 d-flex justify-content-center">
-                    <img src={images[active]} id={identifier} className="img img-fluid fade-in" alt="book picture" />
+                    <img src={images[active]} loading="lazy" id={identifier} className="img img-fluid fade-in" alt="book picture" />
                     </div>
                 </div>
             </div>

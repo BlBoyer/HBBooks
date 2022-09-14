@@ -2,10 +2,10 @@ import React from 'react';
 import Carousel from '../components/Carousel';
 import Loading from '../components/Loading';
 import BookLink from '../components/BookLink';
-import img1 from '../img/monthOne.jpg';
-import img2 from '../img/monthTwo.jpg';
-import img3 from '../img/monthThree.jpg';
-import img4 from '../img/monthFour.png';
+const img1 = require('../img/monthOne.jpg');
+const img2 = require('../img/monthTwo.jpg');
+const img3 = require('../img/monthThree.jpg');
+const img4 = require('../img/monthFour.png');
 const books = require('../data/books.json');
 export default function Books({capsule})
 {
