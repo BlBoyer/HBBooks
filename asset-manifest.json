@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "https://blboyer.github.io/HBBooks/static/css/main.20806fb4.css",
-    "main.js": "https://blboyer.github.io/HBBooks/static/js/main.ec245ed0.js",
-    "static/js/810.1437249f.chunk.js": "https://blboyer.github.io/HBBooks/static/js/810.1437249f.chunk.js",
-    "static/js/367.9377aa6c.chunk.js": "https://blboyer.github.io/HBBooks/static/js/367.9377aa6c.chunk.js",
-    "static/js/613.6f7e7900.chunk.js": "https://blboyer.github.io/HBBooks/static/js/613.6f7e7900.chunk.js",
-    "static/js/787.8a295581.chunk.js": "https://blboyer.github.io/HBBooks/static/js/787.8a295581.chunk.js",
-    "static/media/monthTwo.jpg": "https://blboyer.github.io/HBBooks/static/media/monthTwo.5170f013cce4b08267a2.jpg",
-    "static/media/monthOne.jpg": "https://blboyer.github.io/HBBooks/static/media/monthOne.5c1c04625c6f03d42b2f.jpg",
-    "static/media/monthThree.jpg": "https://blboyer.github.io/HBBooks/static/media/monthThree.7e1eb1278b403ebb5ea5.jpg",
-    "static/media/banner.jpg": "https://blboyer.github.io/HBBooks/static/media/banner.03cefcc6fac30b15242b.jpg",
-    "static/media/headerImg.jpg": "https://blboyer.github.io/HBBooks/static/media/headerImg.3e16fafece4e6cdc93f6.jpg",
-    "static/media/authorIllustrator.jpg": "https://blboyer.github.io/HBBooks/static/media/authorIllustrator.1b011fd9aa381991bd5f.jpg",
-    "static/media/illustrator.jpg": "https://blboyer.github.io/HBBooks/static/media/illustrator.5a58399b19fb053164c6.jpg",
-    "static/media/author.jpg": "https://blboyer.github.io/HBBooks/static/media/author.c444d94b816c4d29c9f5.jpg",
-    "index.html": "https://blboyer.github.io/HBBooks/index.html",
-    "main.20806fb4.css.map": "https://blboyer.github.io/HBBooks/static/css/main.20806fb4.css.map",
-    "main.ec245ed0.js.map": "https://blboyer.github.io/HBBooks/static/js/main.ec245ed0.js.map",
-    "810.1437249f.chunk.js.map": "https://blboyer.github.io/HBBooks/static/js/810.1437249f.chunk.js.map",
-    "367.9377aa6c.chunk.js.map": "https://blboyer.github.io/HBBooks/static/js/367.9377aa6c.chunk.js.map",
-    "613.6f7e7900.chunk.js.map": "https://blboyer.github.io/HBBooks/static/js/613.6f7e7900.chunk.js.map",
-    "787.8a295581.chunk.js.map": "https://blboyer.github.io/HBBooks/static/js/787.8a295581.chunk.js.map"
+    "main.css": "https://hattyandbarty.com/static/css/main.4690d751.css",
+    "main.js": "https://hattyandbarty.com/static/js/main.00721ed3.js",
+    "static/js/810.1437249f.chunk.js": "https://hattyandbarty.com/static/js/810.1437249f.chunk.js",
+    "static/js/367.9377aa6c.chunk.js": "https://hattyandbarty.com/static/js/367.9377aa6c.chunk.js",
+    "static/js/613.6f7e7900.chunk.js": "https://hattyandbarty.com/static/js/613.6f7e7900.chunk.js",
+    "static/js/787.8a295581.chunk.js": "https://hattyandbarty.com/static/js/787.8a295581.chunk.js",
+    "static/media/monthTwo.jpg": "https://hattyandbarty.com/static/media/monthTwo.5170f013cce4b08267a2.jpg",
+    "static/media/monthOne.jpg": "https://hattyandbarty.com/static/media/monthOne.5c1c04625c6f03d42b2f.jpg",
+    "static/media/monthThree.jpg": "https://hattyandbarty.com/static/media/monthThree.7e1eb1278b403ebb5ea5.jpg",
+    "static/media/banner.jpg": "https://hattyandbarty.com/static/media/banner.03cefcc6fac30b15242b.jpg",
+    "static/media/headerImg.jpg": "https://hattyandbarty.com/static/media/headerImg.3e16fafece4e6cdc93f6.jpg",
+    "static/media/authorIllustrator.jpg": "https://hattyandbarty.com/static/media/authorIllustrator.1b011fd9aa381991bd5f.jpg",
+    "static/media/illustrator.jpg": "https://hattyandbarty.com/static/media/illustrator.5a58399b19fb053164c6.jpg",
+    "static/media/author.jpg": "https://hattyandbarty.com/static/media/author.c444d94b816c4d29c9f5.jpg",
+    "index.html": "https://hattyandbarty.com/index.html",
+    "main.4690d751.css.map": "https://hattyandbarty.com/static/css/main.4690d751.css.map",
+    "main.00721ed3.js.map": "https://hattyandbarty.com/static/js/main.00721ed3.js.map",
+    "810.1437249f.chunk.js.map": "https://hattyandbarty.com/static/js/810.1437249f.chunk.js.map",
+    "367.9377aa6c.chunk.js.map": "https://hattyandbarty.com/static/js/367.9377aa6c.chunk.js.map",
+    "613.6f7e7900.chunk.js.map": "https://hattyandbarty.com/static/js/613.6f7e7900.chunk.js.map",
+    "787.8a295581.chunk.js.map": "https://hattyandbarty.com/static/js/787.8a295581.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.20806fb4.css",
-    "static/js/main.ec245ed0.js"
+    "static/css/main.4690d751.css",
+    "static/js/main.00721ed3.js"
   ]
 }
