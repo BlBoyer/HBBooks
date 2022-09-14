@@ -1,6 +1,6 @@
 import React, {useState, useEffect} from 'react';
 import { AuthenticatedTemplate } from '@azure/msal-react';
-import Loading from './Loading.js';
+import Loading from '../components/Loading';
 import Footer from '../components/Footer';
 import '../styles/styles.css';
 var Comploader = React.lazy(() => import('./Welcome'));

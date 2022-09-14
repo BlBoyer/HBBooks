@@ -14,18 +14,18 @@ export default function Welcome({...capsule})
                     <div className="row justify-content-center mb-2 main text">
                         <div className="col">
                             <p className="indent">When my children were little I told them bedtime stories most every night. 
-                            One evening I created the characters Hatty and Barty and told them a story about these new fictional characters.  
+                            One evening I created the characters Hatty and Barty and told them a story about these new fictional children.  
                             Both of my children loved this story so much that from that night forward they would only let me tell them 
                             stories about Hatty and Barty.
                             </p>
                             <p className="indent">
                             I told these Hatty and Barty stories for several years. It was quite a stretch to my creativity after a while 
-                            to keep coming up with new ideas and story subject matter but somehow I always managed to do so and I always 
+                            to keep coming up with new ideas and story subject matter but somehow I always managed to do so and always 
                             enjoyed telling them.
                             </p>
                             <p className="indent">
                             Sometimes when I was tired, I would get to the crucial point in the story and then tell my children "to be 
-                            continued".  Their response would be "No Dad! Finish the story!" Usually I wouldn’t relent and then the next 
+                            continued".  Their response would be "No Dad, finish the story!" Usually I wouldn't relent and then the next 
                             night sometimes I would forget the story I had started the night before and this would create greater 
                             consternation.
                             </p>

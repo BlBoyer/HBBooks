@@ -1,4 +1,6 @@
+import React from 'react';
 import Carousel from '../components/Carousel';
+import Loading from '../components/Loading';
 import BookLink from '../components/BookLink';
 import img1 from '../img/monthOne.jpg';
 import img2 from '../img/monthTwo.jpg';
@@ -12,7 +14,9 @@ export default function Books({capsule})
             <div className="row mx-2 justify-content-center main">
             <p className="col fit mb-3 subheading">Books</p>
             </div>
+            <React.Suspense fallback={<Loading />} >
             <Carousel images={imageArr} identifier="disp1" />
+            </React.Suspense>
             <div className="row justify-content-center mb-2 main text">
                 <p className="col">
                     The Hatty Barty series has been translated to various languages. You can find copies of the books for sale on Amazon, using the links below:
