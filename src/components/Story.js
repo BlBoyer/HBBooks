@@ -30,7 +30,7 @@ export default function Story()
                         <p>
                         <b>Elizabeth Boyer</b>, in addition to editing my book you also wrote a foreword and helped with the vagaries related to publishing the book! I’m eternally in your debt! Thank you for being my daughter!
                         <br/><br/>
-                        <b>Benjamin Boyer</b>, in addition to inspiring me when you were little, you also wrote a foreword for my book’s later editions. And now you are also preparing the HattyandBarty.com website for me. Thank you for being my son!
+                        <b>Benjamin Boyer</b>, in addition to inspiring me when you were little, you also wrote a foreword for my book's later editions. And you made this website for me. Thank you for being my son!
                         <br/><br/>
                         <b>My nephew</b>, who did a ton of behind the scenes stuff to help make this happen and continues to help with other stuff! A big thank you, you will remain anonymous as you wished!
                         <br/><br/>

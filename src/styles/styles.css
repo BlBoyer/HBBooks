@@ -116,7 +116,7 @@ footer
 }
 #banner
 {
-    background-image: url('../img/headerImg.jpg');
+    background-image: url('../img/banner.jpg');
 }
 @media (max-width: 320px)
 {

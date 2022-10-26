@@ -3,16 +3,15 @@ const img1 = require('../img/monthOne.jpg');
 const img2 = require('../img/monthTwo.jpg');
 const img3 = require('../img/monthThree.jpg');
 const img4 = require('../img/monthFour.jpg');
+const img5 = require('../img/monthFive.jpg');
 //give an options parameter for carousel options, like cycle, arrow, etc.
 export default function Carousel({identifier})
 {
-    const images=[img1,img2,img3, img4];
+    const images=[img1,img2,img3, img4, img5];
     //test images is array of images
     var [active, setActive] = useState(0);
     var [count, setCount] = useState(0);
     //var [started, setStarted] = useState(false);
-    //var display = document.getElementById(identifier);
-    //setInterval change image, or translate mosaic
     //we're going to translate the old pic out as it fades out, and fade the new one in or vice versa.
 /*     useEffect(()=>{
         document.getElementById(identifier).addEventListener('animationstart', setStarted(true));
@@ -29,9 +28,7 @@ export default function Carousel({identifier})
         return ()=>clearInterval(interval);
     },[]);
     useEffect(()=>{
-        //console.log(`useEffect ${count}, current img state: ${active}`);
-        //this is switching too early on the first two iterations
-        //try to make the count higher by one to give things time to catch up, there should be a better answer than this.
+        //this is switching too early on the first two iterations on slow connections
         if (count > 0)
         {
             if (active==images.length-1)
@@ -48,7 +45,7 @@ export default function Carousel({identifier})
             <div className="col-8 bg-light">
                 <div className="row justify-content-center">
                     <div className="col-7 d-flex justify-content-center">
-                    <img src={images[active]} loading="lazy" id={identifier} className="img img-fluid fade-in" alt="book picture" />
+                    <img src={images[active]} loading="lazy" id={identifier} className="img img-fluid" alt="book picture" />
                     </div>
                 </div>
             </div>
