@@ -41,7 +41,7 @@
                 {"eng":"https://www.amazon.com/gp/product/B0BCQZ1RB5"},
                 {"deu":""},
                 {"esp":""},
-                {"ukr":""},
+                {"ukr":"https://www.amazon.com/dp/B0BPQT1QCF"},
                 {"zho":""}
             ]
         },
@@ -60,7 +60,7 @@
             "name":"monthSix",
             "urls":
             [
-                {"eng":""},
+                {"eng":"https://www.amazon.com/dp/B0BNL4FHL1"},
                 {"deu":""},
                 {"esp":""},
                 {"ukr":""},
