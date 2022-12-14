@@ -1,17 +1,20 @@
 import author from '../img/pics/author.jpg';
+import bg from '../img/tadpoles.jpg';
 export default function Author()
 {
     return (
-        <div>
+        <div className="about-bg" style={{backgroundImage:`url(${bg})`}}>
             <div className="row mx-2 justify-content-center main">
-            <p className="col fit subheading">About The Author</p>
+                <div className="col d-inline-flex justify-content-center">
+                    <p className="over-text subheading rounded">About The Author</p>
+                </div>
             </div>
             <hr />
             <div className="about-card main text">
                 <div>
                     <img src={author} className="card-img" alt="Grant Boyer" />
                 </div>
-                <div>
+                <div className="indent over-text rounded">
                     <p className="indent">
                         Writing was not my passion growing up.  The first inkling I had that I might have some talent in this genre was when I was in junior college taking a required course, English composition 101.  The Professor gave us an assignment to write a fiction story for the final exam.  I wrote a story about a nuclear holocaust and how the people who survived it found my story in the rubble.  I burned the edges of my paper to add some realism to it before I turned it in. 
                         My professor liked my story so well he gave me an A on the final exam and used my story as an example to all of his creative writing classes thereafter.  He continually tried to get me to join his creative writing class after this but at that time in my life I was more interested in business and music so never joined his class.

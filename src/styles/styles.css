@@ -6,6 +6,12 @@ footer
 {
     box-shadow:0px -4px 5px -2px var(--bs-gray-200);
 }
+.about-bg
+{
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
 .about-card
 {
     display: flex;
@@ -88,6 +94,12 @@ footer
     animation: 4s infinite img-fade-in;
     animation-timing-function: cubic-bezier(.8, 0, 0.6, 0);
 }
+.over-text
+{
+    padding: 0px 1em;
+    color: var(--bs-gray-700);
+    background-color: rgba(255,255,255,.7);
+}
 .p-link
 {
     color:darkred;
@@ -136,6 +148,12 @@ footer
 }
 @media (max-width: 576px) 
 {
+    .about-bg
+    {
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center center;
+    }
     .about-card
     {
         display: flex;

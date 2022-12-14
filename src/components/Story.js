@@ -1,17 +1,20 @@
 import authorIllustrator from '../img/pics/authorIllustrator.jpg';
+import bg from '../img/tree.jpg';
 export default function Story()
 {
     return (
-        <div>
+        <div className="about-bg" style={{backgroundImage:`url(${bg})`}}>
             <div className="row mx-2 justify-content-center main">
-            <p className="col fit subheading">About The Books</p>
+                <div className="col d-inline-flex justify-content-center">
+                    <p className="over-text subheading rounded">About The Books</p>
+                </div>
             </div>
             <hr />
             <div className="about-card main text">
                 <div>
                     <img src={authorIllustrator} className="card-img" alt="Story" />
                 </div>
-                <div>
+                <div className="over-text rounded">
                     <p className="indent">
                         Several years ago, while editing the book <a className="p-link" href="https://www.amazon.com/Break-Free-How-Get-Stay/dp/1732463719">Break Free</a> by Vladimir Savchuk, a thought entered my mind, that I should write my own book.
                         I remembered that when my children Elizabeth and Benjamin were little that I had created characters named Hatty and Barty that became their staple of bedtime story fare for several years running.

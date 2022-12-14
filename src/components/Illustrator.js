@@ -1,17 +1,20 @@
 import illustrator from '../img/pics/illustrator.jpg';
+import bg from '../img/cat.jpg';
 export default function Illustrator()
 {
     return (
-        <div>
+        <div className="about-bg" style={{backgroundImage:`url(${bg})`}}>
             <div className="row mx-2 justify-content-center main">
-            <p className="col fit subheading">About The Illustrator</p>
+                <div className="col d-inline-flex justify-content-center">
+                    <p className="over-text subheading rounded">About The Illustrator</p>
+                </div>
             </div>
             <hr />
             <div className="about-card main text">
                 <div>
                     <img src={illustrator} className="card-img" alt="Aleksandra" />
                 </div>
-                <div>
+                <div className="over-text rounded">
                     <p className="indent">
                         Aleksandra Adamska Rzepka
                         Resides in Poland and is the illustrator for the Hatty and Barty Adventure Series Books.
