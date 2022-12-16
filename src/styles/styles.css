@@ -29,6 +29,14 @@ footer
     display: flex;
     flex-direction: column;
 }
+.backgroundBlue
+{
+    background: radial-gradient(rgb(175, 216, 252) 15%, rgb(255, 255, 255));
+}
+.backgroundGray
+{
+    background: linear-gradient(var(--bs-gray-400), rgba(255,255,255,0) 2%, rgba(255,255,255,0) 98%, var(--bs-gray-400)), linear-gradient(90deg, var(--bs-gray-500), white 20%, white 80%, var(--bs-gray-500));
+}
 .card-img
 {
     max-width: 384px;
@@ -111,10 +119,18 @@ footer
 {
     filter:brightness(40%);
 }
+.slider-back
+{
+    background: linear-gradient(90deg, rgba(255,255,255,0) 20%,rgba(0,0,0,.6) 30%,rgba(0,0,0,.6) 70%,rgba(255,255,255,0) 80%);
+}
 .subheading.lg
 {
     font-family: 'Raleway';
     font-size: 1.8em;
+}
+.subheading:not(.subnav)
+{
+    text-shadow: 1px 1px 1px var(--bs-gray-500);
 }
 .subheading-adj
 {

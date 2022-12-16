@@ -7,7 +7,7 @@ const BookCarousel = React.lazy(()=>import('../components/Carousel'));
 export default function Books({capsule})
 {
     return (
-        <div>
+        <div className="backgroundBlue">
             <div className="row mx-2 justify-content-center main">
             <p className="col fit mb-3 subheading">Books</p>
             </div>
@@ -15,7 +15,7 @@ export default function Books({capsule})
                 <BookCarousel identifier="disp1" />
             </React.Suspense>
             <div className="row justify-content-center mb-2 main text">
-                <p className="col">
+                <p className="col d-inline-flex over-text rounded">
                     The Hatty Barty series has been translated to various languages. You can find copies of the books for sale on Amazon, using the links below:
                 </p>
             </div>

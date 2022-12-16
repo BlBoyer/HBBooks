@@ -2,8 +2,8 @@ import banner from '../img/banner.jpg';
 export default function Welcome({...capsule})
 {
     return (
-        <div>
-            <div className="row mx-0 justify-content-center main bg-light">
+        <div className="backgroundGray">
+            <div className="row mx-0 justify-content-center main">
                 <p className="col fit subheading">Welcome</p>
                 <img src={banner} alt="excerpt pic from book cover" className="img-fluid px-0" />
             </div><br/>

@@ -43,7 +43,7 @@ export default function Carousel({identifier})
     }, [count]);
     return (
         <div className="row justify-content-center myCarousel mt-3 mb-5">
-            <div className="col-8 bg-light">
+            <div className="col slider-back">
                 <div className="row justify-content-center">
                     <div className="col-7 d-flex justify-content-center">
                     <img src={images[active]} loading="lazy" id={identifier} className="img img-fluid" alt="book picture" />
