@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "https://hattyandbarty.com/static/css/main.03fa0ae3.css",
-    "main.js": "https://hattyandbarty.com/static/js/main.8918fa20.js",
-    "static/js/810.2214402f.chunk.js": "https://hattyandbarty.com/static/js/810.2214402f.chunk.js",
+    "main.css": "https://hattyandbarty.com/static/css/main.6154a94d.css",
+    "main.js": "https://hattyandbarty.com/static/js/main.b9123586.js",
+    "static/js/810.c30ce017.chunk.js": "https://hattyandbarty.com/static/js/810.c30ce017.chunk.js",
     "static/js/233.e3fc1b73.chunk.js": "https://hattyandbarty.com/static/js/233.e3fc1b73.chunk.js",
-    "static/js/779.764cf3bd.chunk.js": "https://hattyandbarty.com/static/js/779.764cf3bd.chunk.js",
+    "static/js/779.175186c8.chunk.js": "https://hattyandbarty.com/static/js/779.175186c8.chunk.js",
     "static/js/787.8a295581.chunk.js": "https://hattyandbarty.com/static/js/787.8a295581.chunk.js",
     "static/media/monthSix.jpg": "https://hattyandbarty.com/static/media/monthSix.6de07c21fa3a9af88feb.jpg",
     "static/media/tree.jpg": "https://hattyandbarty.com/static/media/tree.4b1a88dbd6fe6e53657d.jpg",
@@ -20,15 +20,15 @@
     "static/media/illustrator.jpg": "https://hattyandbarty.com/static/media/illustrator.5a58399b19fb053164c6.jpg",
     "static/media/author.jpg": "https://hattyandbarty.com/static/media/author.c444d94b816c4d29c9f5.jpg",
     "index.html": "https://hattyandbarty.com/index.html",
-    "main.03fa0ae3.css.map": "https://hattyandbarty.com/static/css/main.03fa0ae3.css.map",
-    "main.8918fa20.js.map": "https://hattyandbarty.com/static/js/main.8918fa20.js.map",
-    "810.2214402f.chunk.js.map": "https://hattyandbarty.com/static/js/810.2214402f.chunk.js.map",
+    "main.6154a94d.css.map": "https://hattyandbarty.com/static/css/main.6154a94d.css.map",
+    "main.b9123586.js.map": "https://hattyandbarty.com/static/js/main.b9123586.js.map",
+    "810.c30ce017.chunk.js.map": "https://hattyandbarty.com/static/js/810.c30ce017.chunk.js.map",
     "233.e3fc1b73.chunk.js.map": "https://hattyandbarty.com/static/js/233.e3fc1b73.chunk.js.map",
-    "779.764cf3bd.chunk.js.map": "https://hattyandbarty.com/static/js/779.764cf3bd.chunk.js.map",
+    "779.175186c8.chunk.js.map": "https://hattyandbarty.com/static/js/779.175186c8.chunk.js.map",
     "787.8a295581.chunk.js.map": "https://hattyandbarty.com/static/js/787.8a295581.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.03fa0ae3.css",
-    "static/js/main.8918fa20.js"
+    "static/css/main.6154a94d.css",
+    "static/js/main.b9123586.js"
   ]
 }
