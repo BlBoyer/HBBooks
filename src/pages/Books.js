@@ -1,5 +1,4 @@
 import React from 'react';
-import Carousel from '../components/Carousel';
 import Loading from '../components/Loading';
 import BookLink from '../components/BookLink';
 const books = require('../data/books.json');
