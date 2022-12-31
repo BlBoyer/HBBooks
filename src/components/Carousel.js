@@ -5,10 +5,11 @@ const img3 = require('../img/monthThree.jpg');
 const img4 = require('../img/monthFour.jpg');
 const img5 = require('../img/monthFive.jpg');
 const img6 = require('../img/monthSix.jpg');
+const img7 = require('../img/monthSeven.jpg');
 //give an options parameter for carousel options, like cycle, arrow, etc.
 export default function Carousel({identifier})
 {
-    const images=[img1,img2,img3, img4, img5, img6];
+    const images=[img1,img2,img3, img4, img5, img6, img7];
     //test images is array of images
     var [active, setActive] = useState(0);
     var [count, setCount] = useState(0);
