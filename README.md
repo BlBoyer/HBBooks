@@ -1,70 +1,62 @@
-# Getting Started with Create React App
+# Introduction
+__HBBooks__ is a front-end web application built with the ReactJS library. It was written for Grant Boyer to serve as an introduction and directory to his '__Hatty and Barty__' books, that are for sale on Amazon. The project features three distinct routes: One for the introduction, one dedicated to the currently available books, and one dedicated to the inspriration of, and people involved in, the creation of the books.  
+&nbsp;  
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# App Design
+The project is separated into pages and components. The pages represent the routes, they are:  
+* Layout
+* Welcome
+* Books
+* About  
+&nbsp;  
 
-## Available Scripts
+The layout page, is the shared content of the app. It contains the main header, the site navigation, styles, and also, it contains the routing mechanism for the app.
+&nbsp;  
 
-In the project directory, you can run:
+The welcome page ccontains the introduction for the app.  
+&nbsp;  
 
-### `npm start`
+The books page contains a carousel component of the book cover images and links to the books currently for sale, organized by language.  
+&nbsp;  
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+The about page contains three components with 'about' information for the books, the author, and the illustrator.  
+&nbsp;  
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+# Features
+* Hash Routing with lazy components
+* Custom Carousel component
+* About component
+* Book data  
+&nbsp;  
 
-### `npm test`
+# Instructions
+## Entering New Book Data
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### *Links*
+To add a link to a book on amazon, navigate to the '__data__' folder. A JSON file containing all the books is located in it. It's fairly straightforward from there:  
+* Find the book by the '__name__' key.
+* Add the link to the corresponding language key.  
 
-### `npm run build`
+*Languages are denoted by their international abbreviations.  
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### *Image Carousel*
+To add a new book image, the process is slightly more difficult depending on the image you have to add. If the image needs edited, follow the [__steps to prep an image__](#prep-an-image). Otherwise, continue these steps:  
+* Add the new image to the [__image folder__](/src/img/)  
+src > img
+* Open the [__Carousel component__](/src/components/Carousel.js)
+* At the top-level add an import for the image, like so:  
+  `const img`__[x]__` = require('../img/month`__[image name]__`.jpg');` 
+* Now add the image variable (`img`__[x]__) to the image array:  
+`const images = [img1,img2,img`__[x]__`];`
+* That's it! Verify the image is being displayed by running the app. See [__How to run the App__](#run-the-app-in-a-local-environment)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### *Prep an Image*
+To prepare an image for use with the image carousel, you need to have to have an image editing program installed. My recommended option is the open-source application [__GIMP__](https://www.gimp.org/downloads/). You can also use Microsoft's bitmap editor, or any other editor of your choice.
+* Once the image is loaded in the editor, it needs to be cropped to the front cover of the book.  
+*If you have the full cover, which you most likely will, don't include the strip in the middle.
+* After cropping the image to the front cover, it will need to be resized to scale properly in the app.
+* Before resizing the image, make sure to uncheck any options in your editor to keep the original aspect ratio. They need to be scaled independently.
+* Set the size of the image __in pixels__ to `1250` width and `1600` height.
+* Now you can follow the [__steps__](#image-carousel) to add the image to the app.  
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<mark>&nbsp;*If you do not resize the image, it will not look correctly in the app.&nbsp;</mark>
