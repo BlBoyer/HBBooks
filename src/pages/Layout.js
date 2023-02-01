@@ -5,11 +5,14 @@ import Footer from '../components/Footer';
 import '../styles/styles.css';
 var Comploader = React.lazy(() => import('./Welcome'));
 export default function Layout({capsule}){
-    var [newHash, setHash] = useState("#Welcome");
+
+    var [newHash, setHash] = useState('#Welcome');
+
     //listen for url hash changes and set the hash state to new ones
     window.addEventListener('hashchange', event => {
             setHash(new URL(event.newURL).hash);
     });
+
     useEffect(()=>{
         //load new component if the hash has changed to something other than the current page
         if (newHash && newHash.slice(1) !== capsule.page){
