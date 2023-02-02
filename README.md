@@ -81,7 +81,12 @@ To deploy the application to the production enviroment (GoDaddy.com):
 
 ### *Environment Variables*
 
-The url of the deployed app is used to determine asset locations of the app. You can find the environment variables in the .env files, there is one for production and one for development. Currently, there is only one variable: __PUBLIC_URL__.  The development url is on port 5001, and the [__serve script__](#local-environment) will use that url for the server. The production environment url is where the app is to be hosted. If the hosting environment changes, the __PUBLIC_URL__ variable will need updated accordingly.  
+The dotenv cli package is included to use environment variables. You'll need to create your own files for the build to work on a local server.
+* In the main directory of the project, create a file named __'.env.development.local'__.
+* Open the file in our editor and add the text:  
+__PUBLIC_URL = "http://localhost:5001"__  
+
+The url of the deployed app is used to determine asset locations of the app. The development url will be on port 5001, and the [__serve script__](#local-environment) will use that url for the server. The production environment url is in the __CNAME__ file. If the hosting environment changes, the __CNAME__ file will need updated accordingly.  
 &nbsp;
 
 # Scripts
