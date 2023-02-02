@@ -52,7 +52,7 @@ To add a new book image, the process is slightly more difficult depending on the
   `const img[x] = require('../img/month [image name].jpg');` 
 * Now add the image variable (`img[x]`) to the image array:  
 `const images = [img1,img2,img[x]];`
-* That's it! Verify the image is being displayed by running the app. See [__How to run the App__](#run-the-app-in-a-local-environment)
+* That's it! Verify the image is being displayed by running the app. See [__How to run the App__](#local-environment)
 
 ### *Prep an Image*
 To prepare an image for use with the image carousel, you need to have to have an image editing program installed. My recommended option is the open-source application [__GIMP__](https://www.gimp.org/downloads/). You can also use Microsoft's __Paint__ bitmap editor, or any other editor of your choice.
