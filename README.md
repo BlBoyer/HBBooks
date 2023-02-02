@@ -96,7 +96,14 @@ To deploy the app to a local node server, use the command '__`npm run serve`__'
 ### *Production Environment*
 To deploy the app to the production environment, use '__`npm run deploy`__'  
 \- This will build the app for production and deploy to GH-Pages.  
+
+You can view the script in the package.json file.  
+
+<font color="red">__NOTE:__  
+The app is deployed from the __'production'__ branch. This branch should not be modified directly- it contains the production build of the app. Running the [__deployment script__](#production-environment) will create a production build of the app from the working branch and push it to the __'production'__ branch on GitHub.
+</font>  
 &nbsp;
+
 # Download the project
 
 To use the project on your computer, you'll need to download the [__Git command-line interface__](https://git-scm.com/downloads), [__Node, and the node package manager__](https://nodejs.org/en/download/). Once finished, you can run use use the '__`git clone`__' command to copy the repository to your machine, see [__this guide__](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository).
