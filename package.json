@@ -22,7 +22,7 @@
     "start": "react-scripts start",
     "build:dev": "dotenv -e .env.development.local react-scripts build",
     "build": "react-scripts build",
-    "preserve": "npm run build:dev", 
+    "preserve": "npm run build:dev",
     "serve": "node server.js",
     "predeploy": "npm run build",
     "deploy": "gh-pages -b production -d build",
