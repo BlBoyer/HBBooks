@@ -1,5 +1,5 @@
-import illustrator from '../img/pics/illustrator.jpg';
-import bg from '../img/cat.jpg';
+import illustrator from '../img/pics/illustrator.webp';
+import bg from '../img/cat.webp';
 export default function Illustrator() {
   return (
     <div className='about-bg' style={{ backgroundImage: `url(${bg})` }}>

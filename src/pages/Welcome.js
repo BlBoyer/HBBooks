@@ -1,4 +1,4 @@
-import banner from '../img/banner.jpg';
+import banner from '../img/banner.webp';
 export default function Welcome({ ...capsule }) {
   return (
     <div className='backgroundGray'>
