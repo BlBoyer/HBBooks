@@ -1,12 +1,29 @@
 import { useState, useEffect } from 'react';
-const img1 = require('../img/monthOne.webp');
-const img2 = require('../img/monthTwo.webp');
-const img3 = require('../img/monthThree.webp');
-const img4 = require('../img/monthFour.webp');
-const img5 = require('../img/monthFive.webp');
-const img6 = require('../img/monthSix.webp');
-const img7 = require('../img/monthSeven.webp');
-const img8 = require('../img/monthEight.webp');
+const image1 = require('../img/monthOne.webp');
+const image2 = require('../img/monthTwo.webp');
+const image3 = require('../img/monthThree.webp');
+const image4 = require('../img/monthFour.webp');
+const image5 = require('../img/monthFive.webp');
+const image6 = require('../img/monthSix.webp');
+const image7 = require('../img/monthSeven.webp');
+const image8 = require('../img/monthEight.webp');
+//preload
+const img1 = new Image();
+img1.src = image1;
+const img2 = new Image();
+img2.src = image2;
+const img3 = new Image();
+img3.src = image3;
+const img4 = new Image();
+img4.src = image4;
+const img5 = new Image();
+img5.src = image5;
+const img6 = new Image();
+img6.src = image6;
+const img7 = new Image();
+img7.src = image7;
+const img8 = new Image();
+img8.src = image8;
 //give an options parameter for carousel options, like cycle, arrow, etc.
 export default function Carousel({ identifier }) {
   const images = [img1, img2, img3, img4, img5, img6, img7, img8];
@@ -37,7 +54,7 @@ export default function Carousel({ identifier }) {
       <div className='col slider-back'>
         <div className='row justify-content-center'>
           <div className='col-7 d-flex justify-content-center'>
-            <img src={images[active]} loading='lazy' id={identifier} className='img img-fluid' alt='book picture' />
+            <img src={images[active].src} loading='lazy' id={identifier} className='img img-fluid' alt='book picture' />
           </div>
         </div>
       </div>
