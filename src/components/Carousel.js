@@ -54,7 +54,7 @@ export default function Carousel({ identifier }) {
       <div className='col slider-back'>
         <div className='row justify-content-center'>
           <div className='col-7 d-flex justify-content-center'>
-            <img src={images[active].src} loading='lazy' id={identifier} className='img img-fluid' alt='book picture' />
+            <img src={images[active].src} id={identifier} className='img img-fluid' alt='book picture' />
           </div>
         </div>
       </div>
