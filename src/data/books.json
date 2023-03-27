@@ -1,137 +1,112 @@
 {
-    "books":
-    [
+  "books": [
+    {
+      "name": "monthOne",
+      "urls": [
+        { "eng": "https://www.amazon.com/Hatty-Bartys-Adventures-Month-Barty/dp/1736840207" },
+        { "deu": "https://www.amazon.com/HETTY-BARTYS-ABENTEUER-Abenteuer-German/dp/173684024X" },
+        { "esp": "https://www.amazon.com/LAS-AVENTURAS-HATTY-BARTY-Spanish/dp/1736840282" },
         {
-            "name":"monthOne",
-            "urls": 
-            [
-                {"eng": "https://www.amazon.com/Hatty-Bartys-Adventures-Month-Barty/dp/1736840207"},
-                {"deu":"https://www.amazon.com/HETTY-BARTYS-ABENTEUER-Abenteuer-German/dp/173684024X"},
-                {"esp":"https://www.amazon.com/LAS-AVENTURAS-HATTY-BARTY-Spanish/dp/1736840282"},
-                {"ukr":"https://www.amazon.com/%D0%9F%D1%80%D0%B8%D0%B3%D0%BE%D0%B4%D0%B8-%D0%A5%D0%B5%D1%82%D1%82%D1%96-%D1%82%D0%B0-%D0%91%D0%B5%D1%80%D1%82%D1%96-Ukrainian/dp/1736840258"},
-                {"zho":"https://www.amazon.com/%E5%93%88%E8%92%82%E5%92%8C%E5%B7%B4%E8%92%82%E6%AD%B7%E9%9A%AA%E8%A8%98%E7%AC%AC%E4%B8%80%E5%80%8B%E6%9C%88-Traditional-Chinese-Grant-Boyer-ebook/dp/B09R85NSP4"}
-            ]
+          "ukr": "https://www.amazon.com/%D0%9F%D1%80%D0%B8%D0%B3%D0%BE%D0%B4%D0%B8-%D0%A5%D0%B5%D1%82%D1%82%D1%96-%D1%82%D0%B0-%D0%91%D0%B5%D1%80%D1%82%D1%96-Ukrainian/dp/1736840258"
         },
         {
-            "name":"monthTwo",
-            "urls":
-            [
-                {"eng": "https://www.amazon.com/gp/product/B0BL53B5WD"},
-                {"deu":"https://www.amazon.com/Hatty-Barty-Adventures-Monat-German/dp/1736840215"},
-                {"esp":"https://www.amazon.com/Hatty-Barty-Aventuras-Mes-Spanish/dp/B09XZL6B7B"},
-                {"ukr":"https://www.amazon.com/%D0%9F%D1%80%D0%B8%D0%B3%D0%BE%D0%B4%D0%B8-%D0%A5%D0%B5%D1%82%D1%82%D1%96-%D0%B4%D1%80%D1%83%D0%B3%D0%B8%D0%B9-%D0%BC%D1%96%D1%81%D1%8F%D1%86%D1%8C-Ukrainian/dp/B0BFVVB7F4"},
-                {"zho":"https://www.amazon.com/%E5%93%88%E8%92%82%E5%92%8C%E5%B7%B4%E8%92%82%E6%AD%B7%E9%9A%AA%E8%A8%98-Traditional-Chinese-Grant-Boyer-ebook/dp/B0B25SZYRD"}
-            ]
-        },
-        {
-            "name":"monthThree",
-            "urls":
-            [
-                {"eng":"https://www.amazon.com/Hatty-Barty-Adventures-Month-Three/dp/1087954401"},
-                {"deu":"https://www.amazon.com/Hatty-Barty-Abenteuer-Monat-German/dp/B0B1S58D78"},
-                {"esp":"https://www.amazon.com/Hatty-Barty-Adventuras-AVENTURAS-Spanish/dp/B09YQJBLW6"},
-                {"ukr":"https://www.amazon.com/%D0%9F%D1%80%D0%B8%D0%B3%D0%BE%D0%B4%D0%B8-%D0%A5%D0%B5%D1%82%D1%82%D1%96-%D0%9C%D1%96%D1%81%D1%8F%D1%86%D1%8C-%D1%82%D1%80%D0%B5%D1%82%D1%96%D0%B9-Ukrainian/dp/B0BFV28XQL"},
-                {"zho":"https://www.amazon.com/%E5%93%88%E8%92%82%E5%92%8C%E5%B7%B4%E8%92%82%E6%AD%B7%E9%9A%AA%E8%A8%98-Traditional-Chinese-Grant-Boyer-ebook/dp/B0B2CZ3C9R"}
-            ]
-        },
-        {
-            "name":"monthFour",
-            "urls":
-            [
-                {"eng":"https://www.amazon.com/gp/product/B0BCQZ1RB5"},
-                {"deu":""},
-                {"esp":"https://www.amazon.com/gp/product/B0BTL2KCB6"},
-                {"ukr":"https://www.amazon.com/dp/B0BPQT1QCF"},
-                {"zho":""}
-            ]
-        },
-        {
-            "name":"monthFive",
-            "urls":
-            [
-                {"eng":"https://www.amazon.com/Hatty-Barty-Adventures-Month-Five/dp/B0BGNCDKQP"},
-                {"deu":""},
-                {"esp":"https://www.amazon.com/dp/B0BW27P9XK"},
-                {"ukr":"https://www.amazon.com/dp/B0BQ522P13"},
-                {"zho":""}
-            ]
-        },
-        {
-            "name":"monthSix",
-            "urls":
-            [
-                {"eng":"https://www.amazon.com/dp/B0BNL4FHL1"},
-                {"deu":""},
-                {"esp":""},
-                {"ukr":"https://www.amazon.com/dp/B0BQ5C8H56"},
-                {"zho":""}
-            ]
-        },
-        {
-            "name":"monthSeven",
-            "urls":
-            [
-                {"eng":"https://www.amazon.com/dp/B0BRDK8L3Q"},
-                {"deu":""},
-                {"esp":""},
-                {"ukr":"https://www.amazon.com/dp/B0BQ93KNZK"},
-                {"zho":""}
-            ]
-        },
-        {
-            "name":"monthEight",
-            "urls":
-            [
-                {"eng":"https://www.amazon.com/dp/B0BTGFK7B9"},
-                {"deu":""},
-                {"esp":""},
-                {"ukr":"https://www.amazon.com/dp/B0BTPD13QT"},
-                {"zho":""}
-            ]
-        },
-        {
-            "name":"monthNine",
-            "urls":
-            [
-                {"eng":""},
-                {"deu":""},
-                {"esp":""},
-                {"ukr":""},
-                {"zho":""}
-            ]
-        },
-        {
-            "name":"monthTen",
-            "urls":
-            [
-                {"eng":""},
-                {"deu":""},
-                {"esp":""},
-                {"ukr":""},
-                {"zho":""}
-            ]
-        },
-        {
-            "name":"monthEleven",
-            "urls":
-            [
-                {"eng":""},
-                {"deu":""},
-                {"esp":""},
-                {"ukr":""},
-                {"zho":""}
-            ]
-        },
-        {
-            "name":"monthTwelve",
-            "urls":
-            [
-                {"eng":""},
-                {"deu":""},
-                {"esp":""},
-                {"ukr":""},
-                {"zho":""}
-            ]
+          "zho": "https://www.amazon.com/%E5%93%88%E8%92%82%E5%92%8C%E5%B7%B4%E8%92%82%E6%AD%B7%E9%9A%AA%E8%A8%98%E7%AC%AC%E4%B8%80%E5%80%8B%E6%9C%88-Traditional-Chinese-Grant-Boyer-ebook/dp/B09R85NSP4"
         }
-    ]
+      ]
+    },
+    {
+      "name": "monthTwo",
+      "urls": [
+        { "eng": "https://www.amazon.com/gp/product/B0BL53B5WD" },
+        { "deu": "https://www.amazon.com/Hatty-Barty-Adventures-Monat-German/dp/1736840215" },
+        { "esp": "https://www.amazon.com/Hatty-Barty-Aventuras-Mes-Spanish/dp/B09XZL6B7B" },
+        {
+          "ukr": "https://www.amazon.com/%D0%9F%D1%80%D0%B8%D0%B3%D0%BE%D0%B4%D0%B8-%D0%A5%D0%B5%D1%82%D1%82%D1%96-%D0%B4%D1%80%D1%83%D0%B3%D0%B8%D0%B9-%D0%BC%D1%96%D1%81%D1%8F%D1%86%D1%8C-Ukrainian/dp/B0BFVVB7F4"
+        },
+        {
+          "zho": "https://www.amazon.com/%E5%93%88%E8%92%82%E5%92%8C%E5%B7%B4%E8%92%82%E6%AD%B7%E9%9A%AA%E8%A8%98-Traditional-Chinese-Grant-Boyer-ebook/dp/B0B25SZYRD"
+        }
+      ]
+    },
+    {
+      "name": "monthThree",
+      "urls": [
+        { "eng": "https://www.amazon.com/Hatty-Barty-Adventures-Month-Three/dp/1087954401" },
+        { "deu": "https://www.amazon.com/Hatty-Barty-Abenteuer-Monat-German/dp/B0B1S58D78" },
+        { "esp": "https://www.amazon.com/Hatty-Barty-Adventuras-AVENTURAS-Spanish/dp/B09YQJBLW6" },
+        {
+          "ukr": "https://www.amazon.com/%D0%9F%D1%80%D0%B8%D0%B3%D0%BE%D0%B4%D0%B8-%D0%A5%D0%B5%D1%82%D1%82%D1%96-%D0%9C%D1%96%D1%81%D1%8F%D1%86%D1%8C-%D1%82%D1%80%D0%B5%D1%82%D1%96%D0%B9-Ukrainian/dp/B0BFV28XQL"
+        },
+        {
+          "zho": "https://www.amazon.com/%E5%93%88%E8%92%82%E5%92%8C%E5%B7%B4%E8%92%82%E6%AD%B7%E9%9A%AA%E8%A8%98-Traditional-Chinese-Grant-Boyer-ebook/dp/B0B2CZ3C9R"
+        }
+      ]
+    },
+    {
+      "name": "monthFour",
+      "urls": [
+        { "eng": "https://www.amazon.com/gp/product/B0BCQZ1RB5" },
+        { "deu": "" },
+        { "esp": "https://www.amazon.com/gp/product/B0BTL2KCB6" },
+        { "ukr": "https://www.amazon.com/dp/B0BPQT1QCF" },
+        { "zho": "" }
+      ]
+    },
+    {
+      "name": "monthFive",
+      "urls": [
+        { "eng": "https://www.amazon.com/Hatty-Barty-Adventures-Month-Five/dp/B0BGNCDKQP" },
+        { "deu": "" },
+        { "esp": "https://www.amazon.com/dp/B0BW27P9XK" },
+        { "ukr": "https://www.amazon.com/dp/B0BQ522P13" },
+        { "zho": "" }
+      ]
+    },
+    {
+      "name": "monthSix",
+      "urls": [
+        { "eng": "https://www.amazon.com/dp/B0BNL4FHL1" },
+        { "deu": "" },
+        { "esp": "https://www.amazon.com/dp/B0BZF9DTGT" },
+        { "ukr": "https://www.amazon.com/dp/B0BQ5C8H56" },
+        { "zho": "" }
+      ]
+    },
+    {
+      "name": "monthSeven",
+      "urls": [
+        { "eng": "https://www.amazon.com/dp/B0BRDK8L3Q" },
+        { "deu": "" },
+        { "esp": "" },
+        { "ukr": "https://www.amazon.com/dp/B0BQ93KNZK" },
+        { "zho": "" }
+      ]
+    },
+    {
+      "name": "monthEight",
+      "urls": [
+        { "eng": "https://www.amazon.com/dp/B0BTGFK7B9" },
+        { "deu": "" },
+        { "esp": "" },
+        { "ukr": "https://www.amazon.com/dp/B0BTPD13QT" },
+        { "zho": "" }
+      ]
+    },
+    {
+      "name": "monthNine",
+      "urls": [{ "eng": "" }, { "deu": "" }, { "esp": "" }, { "ukr": "" }, { "zho": "" }]
+    },
+    {
+      "name": "monthTen",
+      "urls": [{ "eng": "" }, { "deu": "" }, { "esp": "" }, { "ukr": "" }, { "zho": "" }]
+    },
+    {
+      "name": "monthEleven",
+      "urls": [{ "eng": "" }, { "deu": "" }, { "esp": "" }, { "ukr": "" }, { "zho": "" }]
+    },
+    {
+      "name": "monthTwelve",
+      "urls": [{ "eng": "" }, { "deu": "" }, { "esp": "" }, { "ukr": "" }, { "zho": "" }]
+    }
+  ]
 }
