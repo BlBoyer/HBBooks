@@ -71,9 +71,15 @@ export default function Author() {
             <a
               className='p-link'
               href='https://www.amazon.com/s?k=hatty+and+barty+books&crid=HR39EH1LXR2K&sprefix=hatty+and+barty+book%2Caps%2C369&ref=nb_sb_noss'>
-              amazon
+              Amazon.
             </a>
-            .<br />
+          </p>
+          <p className='indent'>
+            Other books by this author include the Mayas's Adventures series at{' '}
+            <a className='p-link' href='http://www.mayasadventures.org'>
+              www.mayasadventures.org
+            </a>
+            <br />
             <br />
             Grant Boyer
           </p>
