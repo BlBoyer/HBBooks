@@ -94,7 +94,13 @@
     },
     {
       "name": "monthNine",
-      "urls": [{ "eng": "" }, { "deu": "" }, { "esp": "" }, { "ukr": "" }, { "zho": "" }]
+      "urls": [
+        { "eng": "https://www.amazon.com/dp/B0CK3K9F2F" },
+        { "deu": "" },
+        { "esp": "https://www.amazon.com/dp/B0CKJC13GM" },
+        { "ukr": "" },
+        { "zho": "" }
+      ]
     },
     {
       "name": "monthTen",
