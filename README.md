@@ -1,5 +1,7 @@
 # Introduction
 
+[![deployment-status](https://github.com/BlBoyer/HBBooks/actions/workflows/pages/pages-build-deployment/badge.svg?branch=production)](https://github.com/BlBoyer/HBBooks/actions/workflows/pages/pages-build-deployment)
+
 **HBBooks** is a front-end web application built with the ReactJS library. It was written for Grant Boyer to serve as an introduction and directory to his '**Hatty and Barty**' books, that are for sale on [**Amazon**](https://www.amazon.com/s?k=Hatty+Barty&i=stripbooks&rh=p_27%3AGrant+Boyer&s=relevanceexprank&Adv-Srch-Books-Submit.x=23&Adv-Srch-Books-Submit.y=6&unfiltered=1&ref=sr_adv_b). The project features three distinct routes: One for the introduction, one dedicated to the currently available books, and one dedicated to the inspriration of, and people involved in, the creation of the books.  
 &nbsp;
 
