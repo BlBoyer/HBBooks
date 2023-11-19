@@ -106,8 +106,8 @@
         { "eng": "https://www.amazon.com/dp/B0CK3K9F2F" },
         { "deu": "" },
         { "esp": "https://www.amazon.com/dp/B0CKJC13GM" },
-        { "rus": "https://www.amazon.com/dp/B0CM6RYHK5" },
-        { "ukr": "" },
+        { "rus": "" },
+        { "ukr": "https://www.amazon.com/dp/B0CM6RYHK5" },
         { "zho": "" }
       ]
     },
