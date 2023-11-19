@@ -36,7 +36,7 @@ export default function BookLink({ book }) {
           if (Object.entries(urlObj)[0][1].length > 0) {
             return (
               <a
-                href={Object.entries(urlObj)[0][1]}
+                href={`https://www.amazon.com/dp/${Object.entries(urlObj)[0][1]}`}
                 title={langs[Object.entries(urlObj)[0][0]]}
                 className='mx-1'
                 key={ind}>
