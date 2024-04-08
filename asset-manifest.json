@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "https://hattyandbarty.com/static/css/main.25a97edd.css",
-    "main.js": "https://hattyandbarty.com/static/js/main.6e3c25dd.js",
+    "main.js": "https://hattyandbarty.com/static/js/main.2097ebf5.js",
     "static/js/607.e3fb7d76.chunk.js": "https://hattyandbarty.com/static/js/607.e3fb7d76.chunk.js",
     "static/js/987.1d4393e1.chunk.js": "https://hattyandbarty.com/static/js/987.1d4393e1.chunk.js",
-    "static/js/779.cdd02e15.chunk.js": "https://hattyandbarty.com/static/js/779.cdd02e15.chunk.js",
+    "static/js/779.437e1853.chunk.js": "https://hattyandbarty.com/static/js/779.437e1853.chunk.js",
     "static/js/787.5483c834.chunk.js": "https://hattyandbarty.com/static/js/787.5483c834.chunk.js",
-    "static/js/931.b0adb59f.chunk.js": "https://hattyandbarty.com/static/js/931.b0adb59f.chunk.js",
+    "static/js/931.eb287726.chunk.js": "https://hattyandbarty.com/static/js/931.eb287726.chunk.js",
     "static/media/tree.webp": "https://hattyandbarty.com/static/media/tree.6016ae058db457d07085.webp",
     "static/media/cat.webp": "https://hattyandbarty.com/static/media/cat.f9715fdeed61f17085a8.webp",
     "static/media/monthSeven.webp": "https://hattyandbarty.com/static/media/monthSeven.d251271d5718fdbdd413.webp",
@@ -19,21 +19,22 @@
     "static/media/monthNine.webp": "https://hattyandbarty.com/static/media/monthNine.b490460eb8935d976661.webp",
     "static/media/monthTwo.webp": "https://hattyandbarty.com/static/media/monthTwo.941f0925de5e87c3d888.webp",
     "static/media/monthOne.webp": "https://hattyandbarty.com/static/media/monthOne.e40bdd0066c5522ba746.webp",
+    "static/media/monthTen.webp": "https://hattyandbarty.com/static/media/monthTen.27460deaef06a57af5b1.webp",
     "static/media/monthEight.webp": "https://hattyandbarty.com/static/media/monthEight.c2ba0a665084f772a051.webp",
     "static/media/authorIllustrator.webp": "https://hattyandbarty.com/static/media/authorIllustrator.ed5f57c022c9f9f68204.webp",
     "static/media/illustrator.webp": "https://hattyandbarty.com/static/media/illustrator.907a7b0fe1481b85187f.webp",
     "static/media/author.webp": "https://hattyandbarty.com/static/media/author.bd26d4c4f71d54cb92cf.webp",
     "index.html": "https://hattyandbarty.com/index.html",
     "main.25a97edd.css.map": "https://hattyandbarty.com/static/css/main.25a97edd.css.map",
-    "main.6e3c25dd.js.map": "https://hattyandbarty.com/static/js/main.6e3c25dd.js.map",
+    "main.2097ebf5.js.map": "https://hattyandbarty.com/static/js/main.2097ebf5.js.map",
     "607.e3fb7d76.chunk.js.map": "https://hattyandbarty.com/static/js/607.e3fb7d76.chunk.js.map",
     "987.1d4393e1.chunk.js.map": "https://hattyandbarty.com/static/js/987.1d4393e1.chunk.js.map",
-    "779.cdd02e15.chunk.js.map": "https://hattyandbarty.com/static/js/779.cdd02e15.chunk.js.map",
+    "779.437e1853.chunk.js.map": "https://hattyandbarty.com/static/js/779.437e1853.chunk.js.map",
     "787.5483c834.chunk.js.map": "https://hattyandbarty.com/static/js/787.5483c834.chunk.js.map",
-    "931.b0adb59f.chunk.js.map": "https://hattyandbarty.com/static/js/931.b0adb59f.chunk.js.map"
+    "931.eb287726.chunk.js.map": "https://hattyandbarty.com/static/js/931.eb287726.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.25a97edd.css",
-    "static/js/main.6e3c25dd.js"
+    "static/js/main.2097ebf5.js"
   ]
 }
