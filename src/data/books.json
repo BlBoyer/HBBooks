@@ -33,7 +33,7 @@
     {
       "name": "monthThree",
       "urls": [
-        { "eng": "1087954401" },
+        { "eng": "B0CVR1FJF5" },
         { "deu": "B0B1S58D78" },
         { "esp": "B09YQJBLW6" },
         { "rus": "1088257046" },
@@ -113,7 +113,14 @@
     },
     {
       "name": "monthTen",
-      "urls": [{ "eng": "" }, { "deu": "" }, { "esp": "" }, { "rus": "" }, { "ukr": "" }, { "zho": "" }]
+      "urls": [
+        { "eng": "B0D12F1F67" },
+        { "deu": "" },
+        { "esp": "B0D16YHLLF" },
+        { "rus": "" },
+        { "ukr": "B0D1B319WL" },
+        { "zho": "" }
+      ]
     },
     {
       "name": "monthEleven",
