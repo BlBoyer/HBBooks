@@ -117,14 +117,21 @@
         { "eng": "B0D12F1F67" },
         { "deu": "" },
         { "esp": "B0D16YHLLF" },
-        { "rus": "" },
+        { "rus": "B0D226KCZM" },
         { "ukr": "B0D1B319WL" },
         { "zho": "" }
       ]
     },
     {
       "name": "monthEleven",
-      "urls": [{ "eng": "" }, { "deu": "" }, { "esp": "" }, { "rus": "" }, { "ukr": "" }, { "zho": "" }]
+      "urls": [
+        { "eng": "B0DH3Q9XPQ" },
+        { "deu": "" },
+        { "esp": "" },
+        { "rus": "" },
+        { "ukr": "B0DJFGMG6G" },
+        { "zho": "" }
+      ]
     },
     {
       "name": "monthTwelve",
