@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "https://hattyandbarty.com/static/css/main.25a97edd.css",
-    "main.js": "https://hattyandbarty.com/static/js/main.02f6e07c.js",
+    "main.js": "https://hattyandbarty.com/static/js/main.0979bc3f.js",
     "static/js/607.e3fb7d76.chunk.js": "https://hattyandbarty.com/static/js/607.e3fb7d76.chunk.js",
     "static/js/987.1d4393e1.chunk.js": "https://hattyandbarty.com/static/js/987.1d4393e1.chunk.js",
-    "static/js/779.4cf4881b.chunk.js": "https://hattyandbarty.com/static/js/779.4cf4881b.chunk.js",
+    "static/js/779.3c03d454.chunk.js": "https://hattyandbarty.com/static/js/779.3c03d454.chunk.js",
     "static/js/787.5483c834.chunk.js": "https://hattyandbarty.com/static/js/787.5483c834.chunk.js",
     "static/js/931.eb287726.chunk.js": "https://hattyandbarty.com/static/js/931.eb287726.chunk.js",
     "static/media/tree.webp": "https://hattyandbarty.com/static/media/tree.6016ae058db457d07085.webp",
@@ -26,15 +26,15 @@
     "static/media/author.webp": "https://hattyandbarty.com/static/media/author.bd26d4c4f71d54cb92cf.webp",
     "index.html": "https://hattyandbarty.com/index.html",
     "main.25a97edd.css.map": "https://hattyandbarty.com/static/css/main.25a97edd.css.map",
-    "main.02f6e07c.js.map": "https://hattyandbarty.com/static/js/main.02f6e07c.js.map",
+    "main.0979bc3f.js.map": "https://hattyandbarty.com/static/js/main.0979bc3f.js.map",
     "607.e3fb7d76.chunk.js.map": "https://hattyandbarty.com/static/js/607.e3fb7d76.chunk.js.map",
     "987.1d4393e1.chunk.js.map": "https://hattyandbarty.com/static/js/987.1d4393e1.chunk.js.map",
-    "779.4cf4881b.chunk.js.map": "https://hattyandbarty.com/static/js/779.4cf4881b.chunk.js.map",
+    "779.3c03d454.chunk.js.map": "https://hattyandbarty.com/static/js/779.3c03d454.chunk.js.map",
     "787.5483c834.chunk.js.map": "https://hattyandbarty.com/static/js/787.5483c834.chunk.js.map",
     "931.eb287726.chunk.js.map": "https://hattyandbarty.com/static/js/931.eb287726.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.25a97edd.css",
-    "static/js/main.02f6e07c.js"
+    "static/js/main.0979bc3f.js"
   ]
 }
