@@ -135,7 +135,14 @@
     },
     {
       "name": "monthTwelve",
-      "urls": [{ "eng": "" }, { "deu": "" }, { "esp": "" }, { "rus": "" }, { "ukr": "" }, { "zho": "" }]
+      "urls": [
+        { "eng": "B0DWFRGGST" },
+        { "deu": "" },
+        { "esp": "" },
+        { "rus": "B0DX9NN87H" },
+        { "ukr": "B0DXDB89LN" },
+        { "zho": "" }
+      ]
     }
   ]
 }
