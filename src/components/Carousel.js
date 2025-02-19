@@ -9,6 +9,8 @@ const image7 = require('../img/monthSeven.webp');
 const image8 = require('../img/monthEight.webp');
 const image9 = require('../img/monthNine.webp');
 const image10 = require('../img/monthTen.webp');
+const image11 = require('../img/monthEleven.webp');
+const image12 = require('../img/monthTwelve.webp');
 //preload
 const img1 = new Image();
 img1.src = image1;
@@ -30,9 +32,14 @@ const img9 = new Image();
 img9.src = image9;
 const img10 = new Image();
 img10.src = image10;
+const img11 = new Image();
+img11.src = image11;
+const img12 = new Image();
+img12.src = image12;
+
 //give an options parameter for carousel options, like cycle, arrow, etc.
 export default function Carousel({ identifier }) {
-  const images = [img1, img2, img3, img4, img5, img6, img7, img8, img9, img10];
+  const images = [img1, img2, img3, img4, img5, img6, img7, img8, img9, img10, img11, img12];
   //test images is array of images
   var [active, setActive] = useState(0);
   var [count, setCount] = useState(0);
